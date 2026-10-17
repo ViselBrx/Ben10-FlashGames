@@ -1,0 +1,45 @@
+<ben10OC>
+	<aliens>
+		<!--
+		id : id hero
+		state :
+			- available = hero not locked, no date need (exemple : <alien id="swampfire" state="available" date="" />)
+			- unavailable = hero is locked :
+								- if date = "" the hero is totally lock, exemple : <alien id="swampfire" state="unavailable" date="" />
+								- otherwise the hero is lock by date (MM/DD/YYYY), exemple : <alien id="spidermonkey" state="unavailable" date="10/28/2012" />
+		-->
+		<alien id="swampfire" state="available" date="" />
+		<alien id="humongousaur" state="available" date="" />
+		<alien id="spidermonkey" state="available" date="" />
+		<alien id="brainstorm" state="available" date="" />
+		<alien id="waterhazard" state="available" date="" />
+		<alien id="terraspin" state="available" date="" />
+		<alien id="cannonbolt" state="available" date="" />
+		<alien id="echoecho" state="available" date="" />
+		<alien id="bigchill" state="available" date="" />
+		<alien id="feedback" state="available" date="" />
+		<alien id="gravattack" state="available" date="" />
+		<alien id="bloxx" state="available" date="" />
+		<alien id="ballweevil" state="available" date="" />
+	</aliens>
+	
+	<!-- redirection url to the game creator (used when player click on build button on the win screen) -->
+	<!-- ## Edit this tag for localisation ## -->
+	<builder url="http://ben10-gamecreator.cartoonnetwork.co.uk/" />
+	
+	<!-- redirection url to the game (used when an alien is unavailable) -->
+	<goPlayOn url="http://www.cartoonnetwork.co.uk/" />
+	
+	<!-- if value = true the build button on the win screen is not visible, else if value = false the build button is visible -->
+	<lockbuilder>true</lockbuilder>
+	
+	<!-- if value = true the gallery button on the title card is not visible, else if value = false the gallery button is visible -->
+	<lockGallery>true</lockGallery>
+	
+	<!-- url to the directory where the gallery.xml is -->
+	<urlGalleryXml>testXml/</urlGalleryXml>
+	
+	<!-- first part of the thumbnail url -->
+	<!-- ## Edit this tag for localisation ## -->
+	<urlThumbnail>http://ben10-gamecreator.cartoonnetwork.co.uk/</urlThumbnail>
+</ben10OC>

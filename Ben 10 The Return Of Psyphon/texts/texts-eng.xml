@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<texts>
+	
+	<!--  GENERAL  -->
+	<!--  =======  -->
+	<term key="ContextMenuItems"></term>	<!--  Ítem de menu contextual customizado (para que no haya menu customizado, borrar esta línea)  -->
+	<term key="frame_label_default">eng</term>
+	
+	<!--  CHEAT CODES  -->
+	<!--  ===========  -->
+	<term key="codes-invincibility">TOUGHGUY</term>
+	<term key="codes-fragile">FRAGILE</term>
+	<term key="codes-colossus">COLOSSUS</term>
+	<term key="codes-friendlyfire">FRIENDLYFIRE</term>
+	<term key="codes-doubleenergy">SHIELDED</term>
+	<term key="codes-morelives">4EVER</term>
+	<term key="codes-resetenergy">TOPOFF</term>
+	<term key="codes-allpowerups">BONANZA</term>
+	
+	<!--  SPLASH  -->
+	<!--  ======  -->
+	<term key="loading">LOADING...</term>
+	<term key="ben_prepares">Ben is preparing for adventure</term>
+	<term key="code">code</term>
+	<term key="input_code">enter your code</term>
+	<term key="send">SEND</term>
+	<term key="click_to_continue">CLICK TO CONTINUE</term>
+	<term key="code_invincibility">invincible</term>
+	<term key="code_fragile">ultra-hard</term>
+	<term key="code_colossus">super-strength</term>
+	<term key="code_enemies">enemies</term>
+	<term key="code_double_energy">shield activated</term>
+	<term key="code_more_lives">extra lives</term>
+	<term key="code_all_powerups">more power-ups</term>
+	
+	
+	<!--  MAIN MENU  -->
+	<!--  =========  -->
+	<term key="new_game">NEW GAME</term>
+	<term key="new_game_subtext">start a new adventure</term>
+	<term key="continue_splash">CONTINUE</term>
+	<term key="continue_splash_subtext">continue your adventure</term>
+	<term key="continue_char_select">CONTINUE</term>
+	<term key="continue_char_select_subtext">start your adventure</term>
+	<term key="num_players_1">1 PLAYER</term>
+	<term key="num_players_1_subtext">dare to play alone against Psyphon</term>
+	<term key="num_players_2">2 PLAYERS</term>
+	<term key="num_players_2_subtext">play with a friend against Psyphon</term>
+	<term key="back">BACK</term>
+	<term key="back_to_game_mode">SELECT A DIFFERENT GAME MODE</term>
+	<term key="ben10">BEN 10</term>
+	<term key="char_ben_subtext">Electric attacks</term>
+	<term key="rook">ROOK</term>
+	<term key="ben">BEN</term>
+	<term key="max">GRANDPA MAX</term>
+	<term key="char_rook_subtext">Fast shooter</term>
+	<term key="stat_power">POWER</term>
+	<term key="stat_speed">SPEED</term>
+	<term key="stat_jump">JUMP</term>
+	<term key="continue_button">CONTINUE</term>
+	<term key="player_1">PLAYER 1</term>
+	<term key="player_2">PLAYER 2</term>
+	
+	
+	<!--  HUD  -->
+	<!--  ===  -->
+	<term key="combo">COMBO</term>
+	<term key="go">GO!</term>
+	<term key="super_label">SUPER</term>
+	<term key="pause">PAUSE</term>
+	<term key="player">PLAYER</term>
+	<term key="enemy_1_name">HOLOGRAM</term>
+	<term key="enemy_1b_name">FISTINA</term>
+	<term key="enemy_2_name">LIAM</term>
+	<term key="enemy_3_name">ALIEN</term>
+	<term key="enemy_4_name">BUBBLEHEAD</term>
+	<term key="enemy_boss_name">PSYPHON</term>
+	<term key="bomb">BOMB</term>
+	
+	<!--  POWERUPS  -->
+	<!--  ========  -->
+	<term key="powerup_energy">energy</term>
+	<term key="powerup_special">super</term>
+	
+	
+	
+	
+	<!--  EXIT  -->
+	<!--  ====  -->
+	<term key="exit_confirm">are you sure you want to quit?</term>
+	<term key="exit_yes_txt">YES</term>
+	<term key="back_to_menu">back to menu</term>
+	<term key="exit_no_txt">NO</term>
+	<term key="keep_playing">keep playing</term>
+	
+	
+	<!--  GAME LOST  -->
+	<!--  =========  -->
+	<term key="glost_title">GAME OVER</term>
+	<term key="glost_subtitle">YOU COULDN'T STOP PSYPHON AND HIS EVIL PLANS</term>
+	<term key="glost_score_label">Aliens defeated:</term>
+	<term key="glost_menu">MENU</term>
+	<term key="glost_play_again">PLAY AGAIN</term>
+	<term key="try_again">try one more time</term>
+	
+	
+	<!--  GAME WON  -->
+	<!--  ========  -->
+	<term key="gwon_title">congratulations!</term>
+	<term key="gwon_score_label">Aliens defeated:</term>
+	
+	
+	<!--  DIALOGS  -->
+	<!--  =======  -->
+	<!--  Texto: ...;personaje|milisegundos|L(eft)/R(ight)|texto|specialMcLocal|specialActionsSeparadasPorComa{parametro1:parametro2:..};...  -->
+	<!--  SpecialActions: disableInput, showBomb{x:tiempoSegundos:easeFunction}, enableInput, backToPlayers, endFreeCamera  -->
+	<term key="dialog_tutor">pause|1000|L|||disableInput;pause|1500|L|||startShake,playSound{Temblor};ben|3000|L|What was that?||stopShake;rook|3000|R|Psyphon is invading Undertown;max|3000|L|You must complete your training before going after him!;pause|100|L|||enableInput</term>
+	<term key="dialog_tutor1">pause|1500;max_tutor|5000|L|MOVE|arrows</term>	<!--  Texto: ...;personaje|segundos|L(eft)/R(ight)|texto;...  -->	<!--  Pausa: ...;pause|segundos;...  -->	<!--  IDs: max,ben,rook,pause  -->
+	<term key="dialog_tutor2">max_tutor|5000|L|ATTACK|pinia;pause|2000;max_tutor|5000|L|SHOOT|disparo;pause|2000;max_tutor|5000|L|JUMP|salto</term>
+	<term key="dialog_tutor3">max_tutor|5000|L|DASH|dash;pause|3000;max_tutor|5000|L|SPECIAL ATTACK|especial</term>
+	
+	 <term key="dialog_pasar_nivel1">max|3000|L|Good job! Your training is now complete</term>
+	
+	<term key="dialog_mercado">pause|1500|L|||disableInput;ben|3000|L|Psyphon followers have set a bomb!;pause|3500|L|||showBomb{1600:3};rook|3000|R|Let's destroy it before it's too late!;pause|3300|L|||backToPlayers{3};pause|100|L|||enableInput,endFreeCamera</term>
+	
+	<term key="dialog_bomb_about_to_explode">ben|3000|L|We must hurry!</term>
+    <term key="dialog_pasar_nivel2">ben|3000|L|That was close!;rook|3000|R|I know a shortcut to Undertown;ben|3000|L|Let's go!</term>
+	                                                             
+	<term key="dialog_tren">pause|1500|L|||disableInput;ben|3000|L|I hope this will be a quiet ride;rook|3000|R|I expect the same, sir!;ben|3000|L|Sir? Call me Ben, Dude;rook|3000|R|Very well, Ben Dude;pause|100|L|||enableInput</term>
+    <term key="dialog_pasar_nivel3">ben|3000|L|What a bumpy ride!;rook|3000|R|That's right, Ben Dude;ben|3000|L|CALL ME BEN!</term>
+	
+	
+    <term key="dialog_subte">pause|1500|L|||disableInput;ben|3000|L|The train journey finally came to an end;rook|3000|R|My sensors indicate that more aliens are approaching;ben|3000|L|Let's go that way!;pause|100|L|||enableInput</term>
+    <term key="dialog_subte1">pause|1500|L|||disableInput;ben|3000|L|Don't they ever stop? This looks like a video game;pause|1000|L|||showBomb{8200:1};rook|3000|R|But it's the real world, Ben;ben|3000|L|I know, Rook;pause|1000|L|||backToPlayers{1};pause|100|L|||enableInput,endFreeCamera</term>
+    <term key="dialog_pasar_nivel4">ben|3000|L|We're close!;rook|3000|R|Let's move!</term>
+
+    <term key="dialog_ciudad">pause|1500|L|||disableInput;ben|3000|L|What an amazing city!;rook|3000|R|You look surprised, Ben;ben|3000|L|I wasn't expecting to find something this big;rook|3000|R|Let's go! Psyphon can't be far!;pause|100|L|||enableInput</term>
+    
+    <term key="dialog_ciudad1">pause|1500;ben|3000|L|Be careful, he's more dangerous than he looks</term>
+	
+	<term key="dialog_pasar_nivel5">ben|3000|L|Good job!;rook|3000|R|We captured Psyphon!;ben|3000|L|We make a great team, Rook!</term>
+	
+	
+	<term key="dialog_tutorospersonajes1">pause|1500;max_tutor|5000|L|MOVE|flechas_2players</term>	<!--  Texto: ...;personaje|segundos|L(eft)/R(ight)|texto;...  -->	<!--  Pausa: ...;pause|segundos;...  -->	<!--  IDs: max,ben,rook,pause  -->
+	<term key="dialog_tutorospersonajes2">max_tutor|5000|L|ATTACK|pinia2;pause|2000;max_tutor|5000|L|SHOOT|disparo2;pause|2000;max_tutor|5000|L|JUMP|salto2</term>
+	<term key="dialog_tutorospersonajes3">max_tutor|5000|L|DASH|dash2;pause|3000;max_tutor|5000|L|SPECIAL ATTACK|especial2</term>
+	
+	<term key="dialog_sidekick_ben_killed">rook|2000|R|SIR!;ben|3000|L|Go on without me for a while, rook. I need to recover</term>
+	<term key="dialog_sidekick_rex_killed">ben|2000|R|¡ROOK! ARE YOU OK?;rook|3000|L|Yes, sir. I just need a minute to recover</term>
+	
+</texts>

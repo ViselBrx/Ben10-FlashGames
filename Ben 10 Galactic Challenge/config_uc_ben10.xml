@@ -1,0 +1,15 @@
+<GameCreator>
+	<aliens>
+		<alien id="swampfire" state="available" date="10/10/2010" />
+		<alien id="humongousaur" state="available" date="10/10/2010" />
+		<alien id="jetray" state="available" date="10/10/2010" />
+		<alien id="spidermonkey" state="available" date="10/10/2010" />
+		<alien id="brainstorm" state="available" date="10/10/2010" />
+		<alien id="waterhazard" state="available" date="10/10/2010" />
+		<alien id="terraspin" state="available" date="10/10/2010" />
+		<alien id="cannonbolt" state="available" date="10/10/2010" />
+		<alien id="echoecho" state="available" date="10/10/2010" />
+		<alien id="bigchill" state="available" date="10/10/2010" />
+	</aliens>
+	<builder url="http://ben10gamecreator.cartoonnetwork.com/" />
+</GameCreator>

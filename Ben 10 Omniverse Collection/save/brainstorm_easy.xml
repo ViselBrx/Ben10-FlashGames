@@ -1,0 +1,1016 @@
+<level>
+  <infos>
+    <version>0.1.0</version>
+  </infos>
+  <tc>
+    <id/>
+    <title/>
+  </tc>
+  <template>
+    <character i="1" j="3"/>
+    <goal i="18" j="3"/>
+  </template>
+  <game>
+    <bg>
+      <id>BG_landscape_2</id>
+    </bg>
+    <goal>
+      <id>4</id>
+    </goal>
+    <character>
+      <id>5</id>
+    </character>
+    <map>
+      <cell id="instance228086" i="0" j="1">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance228593" i="0" j="4">
+        <class>Robot_Move</class>
+        <depth>100000</depth>
+        <rect>
+          <imin>-1</imin>
+          <imax>1</imax>
+          <jmin>-1</jmin>
+          <jmax>1</jmax>
+        </rect>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance389566" i="0" j="5">
+        <class>W_roche_1100</class>
+        <depth>20008</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance221652" i="0" j="11">
+        <class>W_roche_0110</class>
+        <depth>20016</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance222084" i="0" j="12">
+        <class>W_roche_1110</class>
+        <depth>20017</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance222095" i="0" j="13">
+        <class>W_roche_1100</class>
+        <depth>20019</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance228260" i="1" j="2">
+        <class>Robot_Move</class>
+        <depth>100000</depth>
+        <rect>
+          <imin>-1</imin>
+          <imax>1</imax>
+          <jmin>-1</jmin>
+          <jmax>1</jmax>
+        </rect>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance225550" i="1" j="3">
+        <class>W_roche_0100</class>
+        <depth>20002</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>2</variant>
+        </data>
+      </cell>
+      <cell id="instance329242" i="1" j="5">
+        <class>W_roche_0001</class>
+        <depth>20005</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance211388" i="1" j="10">
+        <class>Ben10Brainstorm</class>
+        <depth>110000</depth>
+        <rect>
+          <imin>-1</imin>
+          <imax>1</imax>
+          <jmin>-1</jmin>
+          <jmax>1</jmax>
+        </rect>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance221677" i="1" j="11">
+        <class>W_roche_0111</class>
+        <depth>20014</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance222073" i="1" j="12">
+        <class>W_roche_1111</class>
+        <depth>20016</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance222106" i="1" j="13">
+        <class>W_roche_1101</class>
+        <depth>20017</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance225658" i="2" j="1">
+        <class>W_roche_0010</class>
+        <depth>19999</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance225609" i="2" j="2">
+        <class>W_roche_1010</class>
+        <depth>20000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance225569" i="2" j="3">
+        <class>W_roche_1001</class>
+        <depth>20001</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance221724" i="2" j="11">
+        <class>W_roche_0111</class>
+        <depth>20013</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance221966" i="2" j="12">
+        <class>W_roche_1111</class>
+        <depth>20014</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance221977" i="2" j="13">
+        <class>W_roche_1101</class>
+        <depth>20016</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance225087" i="3" j="6">
+        <class>W_roche_0100</class>
+        <depth>20004</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance226964" i="3" j="8">
+        <class>W_lave2_0100</class>
+        <depth>30007</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance227202" i="3" j="10">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance221764" i="3" j="11">
+        <class>W_roche_0111</class>
+        <depth>20012</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance221955" i="3" j="12">
+        <class>W_roche_1111</class>
+        <depth>20013</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance221988" i="3" j="13">
+        <class>W_roche_1101</class>
+        <depth>20015</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance225777" i="4" j="1">
+        <class>W_roche_0010</class>
+        <depth>19996</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance225790" i="4" j="2">
+        <class>W_roche_1000</class>
+        <depth>19998</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance225065" i="4" j="6">
+        <class>W_roche_0001</class>
+        <depth>20002</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance226978" i="4" j="8">
+        <class>W_lave2_0001</class>
+        <depth>30005</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance221811" i="4" j="11">
+        <class>W_roche_0011</class>
+        <depth>20010</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance221887" i="4" j="12">
+        <class>W_roche_1111</class>
+        <depth>20012</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance221898" i="4" j="13">
+        <class>W_roche_1101</class>
+        <depth>20013</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance226172" i="5" j="2">
+        <class>PF_0000</class>
+        <depth>40000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance224438" i="5" j="8">
+        <class>W_roche_0100</class>
+        <depth>20004</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance222194" i="5" j="12">
+        <class>W_roche_0111</class>
+        <depth>20010</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance222205" i="5" j="13">
+        <class>W_roche_1101</class>
+        <depth>20012</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance226503" i="6" j="5">
+        <class>PF_0100</class>
+        <depth>40000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>2</variant>
+        </data>
+      </cell>
+      <cell id="instance229011" i="6" j="7">
+        <class>Robot_Fix</class>
+        <depth>100000</depth>
+        <rect>
+          <imin>-1</imin>
+          <imax>1</imax>
+          <jmin>-1</jmin>
+          <jmax>1</jmax>
+        </rect>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance224457" i="6" j="8">
+        <class>W_roche_0101</class>
+        <depth>20003</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance227283" i="6" j="11">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance222248" i="6" j="12">
+        <class>W_roche_0111</class>
+        <depth>20009</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance222259" i="6" j="13">
+        <class>W_roche_1101</class>
+        <depth>20010</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance226284" i="7" j="3">
+        <class>PF_0000</class>
+        <depth>40000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance227906" i="7" j="4">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance226406" i="7" j="5">
+        <class>PF_0101</class>
+        <depth>40000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>2</variant>
+        </data>
+      </cell>
+      <cell id="instance227834" i="7" j="7">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance224515" i="7" j="8">
+        <class>W_roche_0101</class>
+        <depth>20001</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>2</variant>
+        </data>
+      </cell>
+      <cell id="instance222316" i="7" j="12">
+        <class>W_roche_0111</class>
+        <depth>20007</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance222327" i="7" j="13">
+        <class>W_roche_1101</class>
+        <depth>20009</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance224594" i="8" j="8">
+        <class>W_roche_0101</class>
+        <depth>20000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance227335" i="8" j="11">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance222389" i="8" j="12">
+        <class>W_roche_0111</class>
+        <depth>20006</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>2</variant>
+        </data>
+      </cell>
+      <cell id="instance222400" i="8" j="13">
+        <class>W_roche_1101</class>
+        <depth>20007</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance226375" i="8" j="5">
+        <class>PF_0001</class>
+        <depth>40000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance224896" i="9" j="4">
+        <class>W_roche_0010</class>
+        <depth>19993</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance224878" i="9" j="5">
+        <class>W_roche_1000</class>
+        <depth>19995</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance227763" i="9" j="7">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance224651" i="9" j="8">
+        <class>W_roche_0001</class>
+        <depth>19999</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance222453" i="9" j="12">
+        <class>W_roche_0111</class>
+        <depth>20004</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance222464" i="9" j="13">
+        <class>W_roche_1101</class>
+        <depth>20006</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance221221" i="10" j="3">
+        <class>PF_0100</class>
+        <depth>40000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>3</variant>
+        </data>
+      </cell>
+      <cell id="instance226700" i="10" j="8">
+        <class>PF_0100</class>
+        <depth>40000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance227377" i="10" j="11">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance222517" i="10" j="12">
+        <class>W_roche_0111</class>
+        <depth>20003</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance222528" i="10" j="13">
+        <class>W_roche_1101</class>
+        <depth>20004</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance227989" i="11" j="2">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance221118" i="11" j="3">
+        <class>PF_0101</class>
+        <depth>40000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance226739" i="11" j="8">
+        <class>PF_0001</class>
+        <depth>40000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>2</variant>
+        </data>
+      </cell>
+      <cell id="instance222581" i="11" j="12">
+        <class>W_roche_0111</class>
+        <depth>20001</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance222603" i="11" j="13">
+        <class>W_roche_1101</class>
+        <depth>20003</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance224755" i="12" j="8">
+        <class>W_roche_0000</class>
+        <depth>19994</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance221073" i="12" j="3">
+        <class>PF_0001</class>
+        <depth>40000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance222592" i="12" j="12">
+        <class>W_roche_0111</class>
+        <depth>20000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance222614" i="12" j="13">
+        <class>W_roche_1101</class>
+        <depth>20001</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance227633" i="12" j="11">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance220569" i="13" j="3">
+        <class>W_roche_0100</class>
+        <depth>19985</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance222684" i="13" j="12">
+        <class>W_roche_0111</class>
+        <depth>19999</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance222706" i="13" j="13">
+        <class>W_roche_1101</class>
+        <depth>20000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance229658" i="14" j="2">
+        <class>Robot_Fix</class>
+        <depth>100000</depth>
+        <rect>
+          <imin>-1</imin>
+          <imax>1</imax>
+          <jmin>-1</jmin>
+          <jmax>1</jmax>
+        </rect>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance220518" i="14" j="3">
+        <class>W_roche_0101</class>
+        <depth>19984</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance224127" i="14" j="11">
+        <class>W_roche_0110</class>
+        <depth>19996</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance222695" i="14" j="12">
+        <class>W_roche_1111</class>
+        <depth>19997</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance222717" i="14" j="13">
+        <class>W_roche_1101</class>
+        <depth>19999</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance220473" i="15" j="3">
+        <class>W_roche_0101</class>
+        <depth>19982</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance224084" i="15" j="10">
+        <class>W_roche_0110</class>
+        <depth>19993</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance224204" i="15" j="11">
+        <class>W_roche_1111</class>
+        <depth>19994</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance222788" i="15" j="12">
+        <class>W_roche_1111</class>
+        <depth>19996</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance222799" i="15" j="13">
+        <class>W_roche_1101</class>
+        <depth>19997</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance229225" i="15" j="9">
+        <class>Robot_Fix</class>
+        <depth>100000</depth>
+        <rect>
+          <imin>-1</imin>
+          <imax>1</imax>
+          <jmin>-1</jmin>
+          <jmax>1</jmax>
+        </rect>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance214503" i="16" j="2">
+        <class>Goal_EnemiesItems</class>
+        <depth>60000</depth>
+        <rect>
+          <imin>-2</imin>
+          <imax>2</imax>
+          <jmin>-4</jmin>
+          <jmax>1</jmax>
+        </rect>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance220435" i="16" j="3">
+        <class>W_roche_0101</class>
+        <depth>19981</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance223983" i="16" j="10">
+        <class>W_roche_0111</class>
+        <depth>19991</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance224014" i="16" j="11">
+        <class>W_roche_1111</class>
+        <depth>19993</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance222882" i="16" j="12">
+        <class>W_roche_1111</class>
+        <depth>19994</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance222893" i="16" j="13">
+        <class>W_roche_1101</class>
+        <depth>19996</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance220418" i="17" j="3">
+        <class>W_roche_0001</class>
+        <depth>19979</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance229439" i="17" j="7">
+        <class>Robot_Fix</class>
+        <depth>100000</depth>
+        <rect>
+          <imin>-1</imin>
+          <imax>1</imax>
+          <jmin>-1</jmin>
+          <jmax>1</jmax>
+        </rect>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance223795" i="17" j="8">
+        <class>W_roche_0110</class>
+        <depth>19987</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance223866" i="17" j="10">
+        <class>W_roche_1111</class>
+        <depth>19990</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance223895" i="17" j="11">
+        <class>W_roche_1111</class>
+        <depth>19991</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance222948" i="17" j="12">
+        <class>W_roche_1111</class>
+        <depth>19993</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance222959" i="17" j="13">
+        <class>W_roche_1101</class>
+        <depth>19994</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance223830" i="17" j="9">
+        <class>W_roche_1110</class>
+        <depth>19988</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance220014" i="18" j="2">
+        <class>W_lave2_0110</class>
+        <depth>29976</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance219908" i="18" j="3">
+        <class>W_lave2_1100</class>
+        <depth>29978</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance223515" i="18" j="7">
+        <class>W_roche_0110</class>
+        <depth>19984</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance223552" i="18" j="8">
+        <class>W_roche_1111</class>
+        <depth>19985</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance223633" i="18" j="10">
+        <class>W_roche_1111</class>
+        <depth>19988</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance223671" i="18" j="11">
+        <class>W_roche_1111</class>
+        <depth>19990</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance223015" i="18" j="12">
+        <class>W_roche_1111</class>
+        <depth>19991</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance223026" i="18" j="13">
+        <class>W_roche_1101</class>
+        <depth>19993</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance223597" i="18" j="9">
+        <class>W_roche_1111</class>
+        <depth>19987</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance219746" i="19" j="2">
+        <class>W_lave2_1011</class>
+        <depth>29975</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance219826" i="19" j="3">
+        <class>W_lave2_1001</class>
+        <depth>29976</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance223225" i="19" j="6">
+        <class>W_roche_0010</class>
+        <depth>19981</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance223242" i="19" j="7">
+        <class>W_roche_1011</class>
+        <depth>19982</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance223281" i="19" j="8">
+        <class>W_roche_1011</class>
+        <depth>19984</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance219677" i="19" j="1">
+        <class>W_lave2_0010</class>
+        <depth>29973</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance223350" i="19" j="10">
+        <class>W_roche_1011</class>
+        <depth>19987</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance223383" i="19" j="11">
+        <class>W_roche_1011</class>
+        <depth>19988</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance223087" i="19" j="12">
+        <class>W_roche_1011</class>
+        <depth>19990</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+      <cell id="instance223098" i="19" j="13">
+        <class>W_roche_1001</class>
+        <depth>19991</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>0</variant>
+        </data>
+      </cell>
+      <cell id="instance223316" i="19" j="9">
+        <class>W_roche_1011</class>
+        <depth>19985</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+        <data>
+          <variant>1</variant>
+        </data>
+      </cell>
+    </map>
+  </game>
+</level>

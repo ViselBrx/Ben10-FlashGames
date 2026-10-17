@@ -1,0 +1,618 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<texts>
+	
+	<!--  CONFIG  -->
+	<!--  ======  -->
+	<term key="ContextMenuItems">Purple Tree Studio</term>	<!--  Item de menu contextual customizado (para que no haya menu customizado, borrar esta linea)  -->
+	<term key="frame_label_default">en</term>
+	
+	<!--  INPUT  (keyCodes) -->
+	<!--  =================  -->
+		<!--  One-player mode: Player 1  -->
+	<term key="input_oneplayer_p1_up">38</term>		<!--  38: up  -->
+	<term key="input_oneplayer_p1_down">40</term>	<!--  40: down  -->
+	<term key="input_oneplayer_p1_left">37</term>	<!--  37: left  -->
+	<term key="input_oneplayer_p1_right">39</term>	<!--  39: right  -->
+	<term key="input_oneplayer_p1_action_1">90</term>	<!--  90: Z  -->
+	<term key="input_oneplayer_p1_action_2">88</term>	<!--  88: X  -->
+	<term key="input_oneplayer_p1_action_3">67</term>	<!--  67: C  -->
+		<!--  One-player mode: CPU (Debug)  -->
+	<term key="input_oneplayer_cpu_debug_up">84</term>	<!--  84: T  -->
+	<term key="input_oneplayer_cpu_debug_down">71</term>	<!--  71: G  -->
+	<term key="input_oneplayer_cpu_debug_left">70</term>	<!--  70: F  -->
+	<term key="input_oneplayer_cpu_debug_right">72</term>	<!--  72: H  -->
+	<term key="input_oneplayer_cpu_debug_action_1">65</term>	<!--  65: A  -->
+	<term key="input_oneplayer_cpu_debug_action_2">83</term>	<!--  83: S  -->
+	<term key="input_oneplayer_cpu_debug_action_3">68</term>	<!--  68: D  -->
+		<!--  Two-player mode: Player 1  -->
+	<term key="input_twoplayers_p1_up">83</term>		<!--  83: S  -->
+	<term key="input_twoplayers_p1_down">88</term>	<!--  88: X  -->
+	<term key="input_twoplayers_p1_left">90</term>	<!--  90: Z  -->
+	<term key="input_twoplayers_p1_right">67</term>	<!--  67: C  -->
+	<term key="input_twoplayers_p1_action_1">81</term>	<!--  81: Q  -->
+	<term key="input_twoplayers_p1_action_2">87</term>	<!--  87: W  -->
+	<term key="input_twoplayers_p1_action_3">69</term>	<!--  69: E  -->
+		<!--  Two-player mode: Player 2  -->
+	<term key="input_twoplayers_p2_up">38</term>		<!--  38: up  -->
+	<term key="input_twoplayers_p2_down">40</term>	<!--  40: down  -->
+	<term key="input_twoplayers_p2_left">37</term>	<!--  37: left  -->
+	<term key="input_twoplayers_p2_right">39</term>	<!--  39: right  -->
+	<term key="input_twoplayers_p2_action_1">74</term>	<!--  74: J  -->
+	<term key="input_twoplayers_p2_action_2">75</term>	<!--  75: K  -->
+	<term key="input_twoplayers_p2_action_3">76</term>	<!--  76: L  -->
+	
+    <!--  CHEAT CODES  -->
+    <!--  ===========  -->
+    <!--  CODE TO ENTER  -->
+    <term key="codes-unlock_vilgax">0010</term>
+    <term key="codes-unlock_malware">0001</term>
+    <term key="codes-unlock_kevin">0011</term>
+    <term key="codes-unlock_kryber">0007</term>
+    <term key="codes-super_full">0004</term>
+    <term key="codes-no_time_limit">0005</term>
+    <term key="codes-oneround">0006</term>
+    <term key="codes-power">0008</term>
+    <term key="codes-armor">0009</term>
+    <term key="codes-one_hit">0002</term>
+    <term key="codes-melee">0003</term>
+	<!--  CORRECT CODE FEEDBACK  -->
+	<term key="code_unlock_vilgax_right">YOU'VE UNLOCKED VILGAX!</term>
+	<term key="code_unlock_malware_right">YOU'VE UNLOCKED MALWARE!</term>
+	<term key="code_unlock_kevin_right">YOU'VE UNLOCKED KEVIN!</term>
+	<term key="code_unlock_kryber_right">YOU'VE UNLOCKED KHYBER!</term>
+	<term key="code_super_full_right">SUPER ATTACKS FULL!</term>
+	<term key="code_no_time_limit_right">NO TIME LIMIT</term>
+	<term key="code_oneround_right">ONE ROUND BATTLES</term>
+	<term key="code_power_right">EXTRA STRENGTH!</term>
+	<term key="code_armor_right">EXTRA ARMOR!</term>
+	<term key="code_one_hit_right">ONE HIT WINS!</term>
+	<term key="code_melee_right">NO POWERS!</term>
+	
+	
+	<!--  GLOBAL  -->
+	<!--  ======  -->
+	<term key="audio_btn">AUDIO</term>
+	
+	<!--  PRELOADER  -->
+	<!--  =========  -->
+	<term key="loading">LOADING</term>
+	
+	<!--  MAIN MENU  -->
+	<!--  =========  -->
+	<term key="splash_play">LET'S PLAY</term>
+	<term key="splash_credits">CREDITS</term>
+	<term key="splash_skip_intro">SKIP</term>
+	<term key="intro_name_ben">BEN 10</term>
+	<term key="intro_name_rook">ROOK</term>
+	<term key="intro_name_gwen">GWEN</term>
+	<term key="intro_name_kevin">KEVIN</term>
+	<term key="intro_name_attea">ATTEA</term>
+	<term key="intro_name_feedback">WARCHIT</term>
+	<term key="intro_nameslong_1">KEVIN GOKSTAD MALWARE</term>
+	<term key="intro_nameslong_2">BEN 10 GWEN VILGAX</term>
+	<term key="intro_gamename">FINAL CLASH</term>
+	<term key="intro_combos">COMBOS</term>
+	<term key="intro_superattacks">SUPER ATTACKS</term>
+	<term key="intro_beready">BE READY</term>
+	<term key="intro_quickname_1">BEN</term>
+	<term key="intro_quickname_2">GWEN</term>
+	<term key="intro_quickname_3">ROOK</term>
+	<term key="intro_quickname_4">KEVIN</term>
+	<term key="intro_quickname_5">ATTEA</term>
+	<term key="intro_quickname_7">WARCHIT</term>
+	<term key="intro_quickname_8">VILGAX</term>
+	<term key="intro_in">IN</term>
+	<term key="logo_subtitle">THE ULTIMATE CHALLENGE</term>
+	<term key="splash_code_title">SECRET CODE</term>
+	<term key="splash_code_text">ENTER YOUR CODE</term>
+	<term key="splash_code_wrong">INCORRECT CODE</term>
+	<term key="splash_code_btn">GO</term>
+
+	<!--  GAME MODE SELECTION  -->
+	<!--  ===================  -->
+	<term key="gamemode_story">STORY</term>
+	<term key="gamemode_versus">VERSUS</term>
+	<term key="gamemode_combat">DUEL</term>
+
+	<!--  CREDITS  -->
+	<!--  =======  -->
+	<term key="credits_produced_by">PRODUCED BY:</term>
+	<term key="credits_developed_by">DEVELOPED BY:</term>
+
+	<!--  STORY SETUP  -->
+	<!--  =========== -->
+	<term key="storysetup_skip">SKIP</term>
+	<term key="story_1">Warlord Gar, ruler of the planet Khoros, has challenged</term>
+	<term key="story_2">the best warriors from all over the galaxy to compete in a tournament.</term>
+	<term key="story_3">The prize: A mysterious weapon that gives</term>
+	<term key="story_4">its wielder amazing power, known as the Golden Fist.</term>
+	<term key="story_5">Who will hold the prize high and who will eat dust along the way?</term>
+	
+
+	<!--  CHARACTER SELECTION (STORY)  -->
+	<!--  ==========================  -->
+	<term key="characterselect_title">SELECT YOUR CHARACTER</term>
+	<term key="energy">Energy</term>
+	<term key="speed">Speed</term>
+	<term key="strength">Strength</term>
+	
+	<term key="arengue_ben_1">Ben didn't care much about competing, but when Warlord Gar extended the invitation</term>
+	<term key="arengue_ben_2">appealing to Ben's image as an intergalactic hero, his pride got the better of him and ended up accepting.</term>
+	
+	<term key="arengue_rook_1">Not really interested in showing off his fighting skills,</term>
+	<term key="arengue_rook_2">Ben convinced Rook that this tournament was a good opportunity to learn new combat abilities.</term>
+	
+	<term key="arengue_diamondhead_1">Famous fighter from Petropia. After getting bored after failing to find fighters that could match his strength,</term>
+	<term key="arengue_diamondhead_2">he enters the tournament to finally be able to go up against the strongest warriors in the universe.</term>
+	
+	<term key="arengue_heatblast_1">Working as a bounty hunter in search of fame and fortune,</term>
+	<term key="arengue_heatblast_2">Agni wants to enter Warlord Gar's tournament so that his deeds can be known throughout the galaxy.</term>
+	
+	<term key="arengue_looma_1">Looma has decided to join the tournament as a representative of the Red Wind house and to show his father</term>
+	<term key="arengue_looma_2">that she doesn't need a husband for her people to respect her.</term>
+	
+	<term key="arengue_feedback_1">Ever since he was a kid, Warchit dreamed of winning the Golden Fist</term>
+	<term key="arengue_feedback_2">to take it to his homeworld and show his people their true potential.</term>
+	
+	<term key="arengue_vilgax_1">The most ruthless villain in the universe barges into Warlord Gar's tournament</term>
+	<term key="arengue_vilgax_2">in order to defeat Ben and use the mysterious powers of the Golden Fist to rule the galaxy.</term>
+	
+	<term key="arengue_attea_1">Always vain and abrasive, Empress Attea decided to join the tournament</term>
+	<term key="arengue_attea_2">in order to add the Golden Fist to her ever increasing Trophy collection.</term>
+	
+	<term key="arengue_malware_1">Malware wants to absorb the Golden Fist and turn his body into the ultimate weapon.</term>
+	<term key="arengue_malware_2">With this, he plans to rule the galaxy and take revenge on Azmuth and the Plumbers.</term>
+	
+	<term key="arengue_kryber_1">Having recently escaped prison, Khyber has no interest in the tournament or its prize,</term>
+	<term key="arengue_kryber_2">he is only seeking revenge against his most elusive prey: Ben Tennyson.</term>
+	
+	<term key="arengue_gwen_1">Gwen wants to prove Ben and Kevin that magic is superior to brute strength,</term>
+	<term key="arengue_gwen_2">but deep down she signed up just to make sure those two don't get mixed up in some type of intergalactic problem.</term>
+	
+	<term key="arengue_kevin_1">Kevin and Warlord Gar go way back and he happily enters the tournament to support is old friend.</term>
+	<term key="arengue_kevin_2">After all, its not every day that he can start a fight without causing a disturbance.</term>
+	
+	<term key="arengue_fourarms_1">Gokstad is one of the great noblemen of Khoros. When he heard of the presence of warriors from different corners of the universe</term>
+	<term key="arengue_fourarms_2">he didn't hesitate to enter in order to win the Golden Fist so it would stay in his planet.</term>
+	
+	
+	
+	
+	<term key="characterselect_name_ben">Ben 10</term>
+	<term key="characterselect_name_attea">Attea</term>
+	<term key="characterselect_name_gwen">Gwen</term>
+	<term key="characterselect_name_rook">Rook</term>
+	<term key="characterselect_name_malware">Malware</term>
+	<term key="characterselect_name_fourarms">Gokstad</term>
+	<term key="characterselect_name_diamondhead">Kruos</term>
+	<term key="characterselect_name_kevin">Kevin</term>
+	<term key="characterselect_name_heatblast">Agni</term>
+	<term key="characterselect_name_vilgax">Vilgax</term>
+	<term key="characterselect_name_kryber">Khyber</term>
+	<term key="characterselect_name_feedback">Warchit</term>
+	<term key="characterselect_back">BACK</term>
+	<term key="characterselect_play">PLAY</term>
+	<term key="characterselect_player_btn">PLAYER</term>
+	
+
+	<!--  CHARACTER SELECTION (SINGLE BATTLE)  -->
+	<!--  ===================================  -->
+	<term key="characterselectsinglebattle_select">SELECT</term>
+	<term key="characterselectsinglebattle_title">CHOOSE YOUR CHARACTER</term>
+	<term key="characterselectsinglebattle_player_left_btn">PLAYER 1</term>
+	<term key="characterselectsinglebattle_player_right_btn_versus">PLAYER 2</term>
+	<term key="characterselectsinglebattle_player_right_btn_combat">CPU</term>
+	
+	<!--  SCENERY SELECT  -->
+	<!--  ============== -->
+	<term key="sceneryselect_title">SCENERY SELECTION</term>
+	<term key="sceneryselect_play">FIGHT!</term>
+	<term key="sceneryselect_name_plumbers">PLUMBERS HQ</term>
+	<term key="sceneryselect_name_fourarms">KHOROS</term>
+	<term key="sceneryselect_name_fist">UNDERTOWN</term>
+	<term key="sceneryselect_name_roof">BELWOOD`S SKYSCRAPER</term>
+	<term key="sceneryselect_name_forest">INCURSIAN INVASION</term>
+	<term key="sceneryselect_name_ship">MOTHERSHIP</term>
+	<term key="sceneryselect_button_label">SCENERY</term>
+	
+	
+	<!--  TRANSITION (VS SCREEN)  -->
+	<!--  =====================  -->
+	<term key="transition_name_ben">Ben 10</term>
+	<term key="transition_name_attea">Attea</term>
+	<term key="transition_name_gwen">Gwen</term>
+	<term key="transition_name_rook">Rook</term>
+	<term key="transition_name_malware">Malware</term>
+	<term key="transition_name_fourarms">Gokstad</term>
+	<term key="transition_name_diamondhead">Kruos</term>
+	<term key="transition_name_kevin">Kevin</term>
+	<term key="transition_name_heatblast">Agni</term>
+	<term key="transition_name_vilgax">Vilgax</term>
+	<term key="transition_name_kryber">Khyber</term>
+	<term key="transition_name_feedback">Warchit</term>
+	<term key="transition_vs">VS</term>
+	<term key="transition_sceneryname_plumbers">PLUMBERS HQ</term>
+	<term key="transition_sceneryname_fourarms">KHOROS</term>
+	<term key="transition_sceneryname_fist">UNDERTOWN</term>
+	<term key="transition_sceneryname_roof">BELWOOD`S SKYSCRAPER</term>
+	<term key="transition_sceneryname_forest">INCURSIAN INVASION</term>
+	<term key="transition_sceneryname_ship">MOTHERSHIP</term>
+	<term key="transition_description_story">BATTLE %0</term>
+	<term key="transition_description_versus">BATTLE</term>
+	<term key="transition_description_combat">BATTLE</term>
+
+	<!--  STORY PROGRESS  -->
+	<!--  ==============  -->
+	<term key="storyprogress_name_ben">Ben 10</term>
+	<term key="storyprogress_name_attea">Attea</term>
+	<term key="storyprogress_name_gwen">Gwen</term>
+	<term key="storyprogress_name_rook">Rook</term>
+	<term key="storyprogress_name_malware">Malware</term>
+	<term key="storyprogress_name_fourarms">Gokstad</term>
+	<term key="storyprogress_name_diamondhead">Kruos</term>
+	<term key="storyprogress_name_kevin">Kevin</term>
+	<term key="storyprogress_name_heatblast">Agni</term>
+	<term key="storyprogress_name_vilgax">Vilgax</term>
+	<term key="storyprogress_name_kryber">Khyber</term>
+	<term key="storyprogress_name_feedback">Warchit</term>
+	<term key="storyprogress_battle_number">BATTLE %0</term>
+	<term key="storyprogress_next_rival">NEXT RIVAL</term>
+	<term key="storyprogress_menu">MENU</term>
+	<term key="storyprogress_play">FIGHT</term>
+	<term key="storyprogress_fakewon_title">CONGRATULATIONS!</term>
+	<term key="storyprogress_fakewon_subtitle">YOU WIN THE TOURNAMENT</term>
+	
+	<term key="storyprogress_villainsappear_1">THE GOLDEN FIST SHOULD BE IN THE HANDS OF SOMEONE</term>
+	<term key="storyprogress_villainsappear_2">WHO CAN HARNESS ITS POWER. YOU ARE NOT WORTHY OF IT!</term>
+
+	<!--  HUD  -->
+	<!--  ===  -->
+	<term key="result_you_win">YOU WIN!</term>
+	<term key="result_you_lose">YOU LOSE!</term>
+	<term key="result_you_player_1_wins">PLAYER ONE WINS!</term>
+	<term key="result_you_player_2_wins">PLAYER TWO WINS!</term>
+	<term key="result_tie">IT'S A TIE</term>
+	<term key="result_ko">K.O.</term>
+	<term key="result_time_up">TIME UP</term>
+	<term key="hud_super">SUPER</term>
+	<term key="hud_name_ben">BEN 10</term>
+	<term key="hud_name_attea">ATTEA</term>
+	<term key="hud_name_gwen">GWEN</term>
+	<term key="hud_name_rook">ROOK</term>
+	<term key="hud_name_malware">MALWARE</term>
+	<term key="hud_name_fourarms">GOKSTAD</term>
+	<term key="hud_name_diamondhead">KRUOS</term>
+	<term key="hud_name_kevin">KEVIN</term>
+	<term key="hud_name_heatblast">AGNI</term>
+	<term key="hud_name_vilgax">VILGAX</term>
+	<term key="hud_name_kryber">KHYBER</term>
+	<term key="hud_name_feedback">WARCHIT</term>
+	<term key="hud_paused">PAUSE</term>
+	<term key="hud_combo">HITS</term>
+	<term key="hud_intro_round">ROUND</term>
+	<term key="hud_intro_go">FIGHT!</term>
+	<term key="hud_time">TIME</term>
+
+	<!--  HELP  -->
+	<!--  ====  -->
+	<term key="help_move">MOVE</term>
+	<term key="help_kick">KICK</term>
+	<term key="help_punch">PUNCH</term>
+	<term key="help_special">SPECIALS</term>
+	<term key="help_title_top">HOW TO PLAY</term>
+	<term key="help_play">FIGHT!</term>
+	<term key="help_player_1">PLAYER 1</term>
+	<term key="help_player_2">PLAYER 2</term>
+	<term key="one_player_key_kick_p1">Z</term>
+	<term key="one_player_key_punch_p1">X</term>
+	<term key="one_player_key_special_p1">C</term>
+	<term key="two_players_key_punch_p1">Q</term>
+	<term key="two_players_key_kick_p1">W</term>
+	<term key="two_players_key_special_p1">E</term>
+	<term key="two_players_key_up_p1">S</term>
+	<term key="two_players_key_left_p1">Z</term>
+	<term key="two_players_key_down_p1">X</term>
+	<term key="two_players_key_right_p1">C</term>
+	<term key="two_players_key_punch_p2">J</term>
+	<term key="two_players_key_kick_p2">K</term>
+	<term key="two_players_key_special_p2">L</term>
+	<term key="help_special_1_player">X+C</term>
+	<term key="help_special_vs_player_1">W+E</term>
+	<term key="help_special_vs_player_2">K+L</term>
+
+	<!--  EXIT  -->
+	<!--  ====  -->
+	<term key="exit_text">ARE YOU SURE YOU WANT TO EXIT?</term>
+	<term key="exit_yes_btn">YES</term>
+	<term key="exit_no_btn">NO WAY!</term>
+
+	<!--  GAME WON  -->
+	<!--  ========  -->
+	<term key="game_won_title">YOU WIN</term>
+	<term key="gamewon_unlocked_character_title">CHARACTER UNLOCKED!</term>
+	<term key="gamewon_unlocked_character_name_ben">BEN 10</term>
+	<term key="gamewon_unlocked_character_name_attea">ATTEA</term>
+	<term key="gamewon_unlocked_character_name_gwen">GWEN</term>
+	<term key="gamewon_unlocked_character_name_rook">ROOK</term>
+	<term key="gamewon_unlocked_character_name_malware">MALWARE</term>
+	<term key="gamewon_unlocked_character_name_fourarms">GOKSTAD</term>
+	<term key="gamewon_unlocked_character_name_diamondhead">KRUOS</term>
+	<term key="gamewon_unlocked_character_name_kevin">KEVIN</term>
+	<term key="gamewon_unlocked_character_name_heatblast">AGNI</term>
+	<term key="gamewon_unlocked_character_name_vilgax">VILGAX</term>
+	<term key="gamewon_unlocked_character_name_kryber">KHYBER</term>
+	<term key="gamewon_unlocked_character_name_feedback">WARCHIT</term>
+	<term key="gamewon_unlocked_transformation_title">TRANSFORMATION UNLOCKED!</term>
+	<term key="gamewon_unlocked_transformation_name_feedback">FEEDBACK</term>
+	<term key="gamewon_unlocked_transformation_name_fourarms">FOUR ARMS</term>
+	<term key="gamewon_unlocked_transformation_name_heatblast">HEATBLAST</term>
+	<term key="gamewon_unlocked_transformation_name_diamondhead">DIAMONDHEAD</term>
+	<term key="gamewon_unlocked_scenery_title">SCENERY UNLOCKED!</term>
+	<term key="gamewon_unlocked_scenery_name_plumbers">PLUMBERS HQ</term>
+	<term key="gamewon_unlocked_scenery_name_fourarms">KHOROS</term>
+	<term key="gamewon_unlocked_scenery_name_fist">UNDERTOWN</term>
+	<term key="gamewon_unlocked_scenery_name_roof">BELWOOD`S SKYSCRAPER</term>
+	<term key="gamewon_unlocked_scenery_name_forest">INCURSIAN INVASION</term>
+	<term key="gamewon_unlocked_scenery_name_ship">MOTHERSHIP</term>
+
+	<!--  LEVEL LOST  -->
+	<!--  ==========  -->
+	<term key="level_lost_continue_question">CONTINUE?</term>
+	<term key="level_lost_title"><![CDATA[<P>GAME</P><P>OVER</P>]]></term>
+	<term key="level_lost_continue_btn">LET'S DO IT</term>
+	
+
+	<!--  RESULTS (SINGLE BATTLE) -->
+	<!--  ======================  -->
+	<term key="singlebattleresult_you_win">YOU WIN!</term>
+	<term key="singlebattleresult_you_lose">YOU LOSE!</term>
+	<term key="singlebattleresult_you_player_1_wins">PLAYER ONE WINS!</term>
+	<term key="singlebattleresult_you_player_2_wins">PLAYER TWO WINS!</term>
+	<term key="singlebattleresult_tie">IT'S A TIE</term>
+	<term key="singlebattleresult_characterselect">CHARACTER SELECT</term>
+	<term key="singlebattleresult_replay">PLAY AGAIN</term>
+	<term key="singlebattleresult_menu">MENU</term>
+	
+	
+	<!--  VICTORY PHRASES  -->
+	<!--  ===================  -->
+	
+	<term key="diamondhead_victory_1">You won't win this tournament if you keep fighting like that</term>
+	<term key="diamondhead_victory_2">To reach you goals you need to fight harder</term>
+	<term key="diamondhead_victory_3">You're no match for a Petropian gladiator</term>
+	
+	<term key="heatblast_victory_1">My fists are on fire!</term>
+	<term key="heatblast_victory_2">Don't try to run from my strikes</term>
+	<term key="heatblast_victory_3">My fire in unmatched!</term>
+	
+    <term key="looma_victory_1">The House of Gars has the strongest warriors!</term>
+	<term key="looma_victory_2">You're no match for the princess of Khoros</term>
+	<term key="looma_victory_3">You're weaker than my last fiancé!</term>
+	
+	<term key="feedback_victory_1">You're a terrible fighter, but at least you are a decent conductor for my electricity</term>
+	<term key="feedback_victory_2">Don't get fooled by my looks, appeareances can be deceiving</term>
+	<term key="feedback_victory_3">It was obvious you were going to lose, but thanks anyways for trying to entertain me for a bit</term>
+	
+	<term key="rook_victory_1">It takes more than strength to defeat me!</term>
+	<term key="rook_victory_2">You need to train a lot harder to improve your balance</term>
+	<term key="rook_victory_3">I was the best fighter at Plumber Academy!</term>
+	
+	
+	<term key="vilgax_victory_1">Out of my sight, you worm!</term>
+	<term key="vilgax_victory_2">You're a thousand years too early to go up against the great Vilgax</term>
+	<term key="vilgax_victory_3">Don't make me laugh!</term>
+	
+	
+	<term key="attea_victory_1">Not bad, you should join my army!</term>
+	<term key="attea_victory_2">Kneel before me</term>
+	<term key="attea_victory_3">The strength of the Incursion Army, like mine, has no equal</term>
+	
+	
+	<term key="malware_victory_1">You aren't worthy of going against me</term>
+	<term key="malware_victory_2">No one can stand in my way</term>
+	<term key="malware_victory_3">I'll do whatever it takes to be whole</term>
+	
+	
+	<term key="kryber_victory_1">You'll be a nice trophy in my collection</term>
+	<term key="kryber_victory_2">You're not a prey worthy of the great Khyber</term>
+	<term key="kryber_victory_3">I'm the best hunter in the galaxy</term>
+	
+	
+	<term key="gwen_victory_1">You should study the art of magic</term>
+	<term key="gwen_victory_2">Your strength is no match for my brain</term>
+	<term key="gwen_victory_3">Think carefully before attacking!</term>
+	
+	
+	<term key="kevin_victory_1">Getting here was way too easy!</term>
+	<term key="kevin_victory_2">I have to repair my car, let's get this over with quickly</term>
+	<term key="kevin_victory_3">Fighting against me was the stupidiest thing you have ever done</term>
+	
+	
+	<term key="ben_victory_1">No one is strong enough to defeat me</term>
+	<term key="ben_victory_2">Didn't you hear? I'm the star around here</term>
+	<term key="ben_victory_3">Do you think I can get a Mr. Smoothie around here?</term>
+	
+	<term key="fourarms_victory_1">Nothing compares to the fists of Khoros</term>
+	<term key="fourarms_victory_2">You're not a worthy rival</term>
+	<term key="fourarms_victory_3">Don't try to get up</term>
+	
+	
+	
+	<!--  CHARACTER BANTER - FINAL BATTLE  -->
+	<!--  ===============================  -->
+	
+		<term key="final_diamondhead_1_diamondhead">Vilgax, if I can beat you and win the Golden Fist</term>
+	    <term key="final_diamondhead_2_diamondhead">the Petrosapien fame will spread throughout the universe</term>
+     	<term key="final_diamondhead_3_vilgax">Better get out of here before it's too late</term>
+	    <term key="final_diamondhead_4_diamondhead">Get ready to fight</term>
+     	<term key="final_diamondhead_5_vilgax">Face real power!</term>
+		
+		<term key="final_fight_diamondhead_win">For the glory of Petropia!</term>
+	    <term key="final_fight_diamondhead_lose">You're nothing but a piece of talking stone!</term> <!--  habla siempre el enemigo, en este caso vilgax -->
+		
+		
+		<term key="final_heatblast_1_heatblast">Be careful, I'm on a hot-streak and I don't want to burn you too badly</term>
+	    <term key="final_heatblast_2_kryber">Better that way, I wouldn't want to beat you too fast</term>
+	    <term key="final_heatblast_3_heatblast">I doubt you can catch me</term>
+     	<term key="final_heatblast_4_kryber">I'll give you an honourable end</term>
+		
+		<term key="final_fight_heatblast_win">Didn't your mom ever teach not to play with fire?</term> 
+	    <term key="final_fight_heatblast_lose">This trophy will look great with the rest of my collection</term> 
+		
+		
+	    <term key="final_looma_1_looma">I won't let your evil presence ruin my father's Tournament</term>
+	    <term key="final_looma_2_vilgax">You really think you can beat the conqueror of the universe?</term>
+     	<term key="final_looma_3_looma">Princess Looma of the Royal House Red Wind will put you in your place</term>
+	    <term key="final_looma_4_vilgax">Try it, foolish child</term>
+    
+		<term key="final_fight_looma_win">That's what happens when you face the fury of the Royal House of Red Wind</term>
+	    <term key="final_fight_looma_lose">After I deal with Tennyson, I'll conquer Khoros</term>
+		
+		<term key="final_feedback_1_feedback">With my power and the Golden Fist</term>
+	    <term key="final_feedback_2_feedback">I'll be unstoppable, so get out of my way Malware</term>
+	    <term key="final_feedback_3_malware">Your poor brain does not understand</term>
+     	<term key="final_feedback_4_malware">the capabilities of the Golden Fist, you don't deserve it</term>
+		<term key="final_feedback_5_feedback">There is only one way to solve this</term>
+	    <term key="final_feedback_6_malware">That's right, assimilating you and the Golden Fist!</term>
+		
+		
+		<term key="final_fight_feedback_win">Fast as lightining and powerful as thunder, I'm the best!</term>
+	    <term key="final_fight_feedback_lose">I'm one step closer to being perfect</term>
+		
+		
+		<term key="final_rook_1_rook">In the name of galactic justice and the Plumbers,</term>
+	    <term key="final_rook_2_rook">I ordered you to stop!</term>
+	    <term key="final_rook_3_malware">Your warnings mean nothing to me!</term>
+     	<term key="final_rook_4_rook">You leave me no choice but to take you down by force</term>
+		<term key="final_rook_5_malware">You are crazy if you think that a simple Plumber can stop me</term>
+		
+		<term key="final_rook_win">It is important for universal peace that you're locked away</term>
+	    <term key="final_rook_lose">With this you should understand that you are no match for me</term>
+		
+		
+		
+	    <term key="final_vilgax_1_vilgax">Tennyson! It's time to defeat you once and for all...</term>
+	    <term key="final_vilgax_2_ben">I've been defeating you since I was 10,</term>
+	    <term key="final_vilgax_3_ben">I doubt you have what it takes to do it!</term>
+     	<term key="final_vilgax_4_vilgax">This time I'll destroy you!</term>
+		<term key="final_vilgax_5_ben">Omnitrix do not fail me now, it's Hero time!</term>
+		
+		<term key="final_fight_vilgax_win">Finally you are mine Tennyson!</term>
+	    <term key="final_fight_vilgax_lose">I always end up kicking your butt!</term>
+		
+		
+		
+		<term key="final_attea_1_attea">You can`t defeat the Empress of the Incrusian Army</term>
+	    <term key="final_attea_2_kryber">You're the prey I was looking for</term>
+	    <term key="final_attea_3_attea">I'll show you what Incursians are made of</term>
+     	<term key="final_attea_4_kryber">The hunt begins now</term>
+	
+		
+		<term key="final_fight_attea_win">The Incursians show no mercy!</term>
+	    <term key="final_fight_attea_lose">Nobody messes with Khyber the hunter</term>
+			
+			
+					
+		<term key="final_malware_1_malware">Ben Tennyson, the bane of my existance</term>
+	    <term key="final_malware_2_ben">This time I'll make sure you stay out of commision</term>
+	    <term key="final_malware_3_malware">I would love to see you try</term>
+     	<term key="final_malware_4_ben">It`s Hero Time!</term>
+	
+		
+		<term key="final_fight_malware_win">Finally, I`ve become the ultimate weapon</term>
+	    <term key="final_fight_malware_lose">I`m a Super Hero!</term>
+		
+		
+		
+		<term key="final_kryber_1_kryber">Tennyson, now you have no place to hide</term>
+	    <term key="final_kryber_2_ben">Hide? A hero never escapes from danger</term>
+	    <term key="final_kryber_3_kryber">The Omnitrix will be a great addition to my collection</term>
+     	<term key="final_kryber_4_ben">You have no chance of defeating me</term>
+	
+		
+		<term key="final_fight_kryber_win">With the Omnitrix, my collection is unique</term>
+	    <term key="final_fight_kryber_lose">You should really consider another profession!</term>
+		
+		
+		<term key="final_gwen_1_gwen">I will not let you absorb the Golden Fist</term>
+	    <term key="final_gwen_2_malware">I doubt that you can stop me all by yourself</term>
+	    <term key="final_gwen_3_gwn">You're underestimating the power of my magic</term>
+     	<term key="final_gwen_4_malware">You're an annoyance, get out of my way</term>
+	
+		
+		<term key="final_fight_gwen_win">You are no match for arcane knowledge</term>
+	    <term key="final_fight_gwen_lose">That's what you get for meddling in my plans</term>
+		
+		
+		
+		
+		<term key="final_kevin_1_kevin">The only good thing about meeting you </term>
+	    <term key="final_kevin_2_kevin">was that I could rescue Zed from you</term>
+	    <term key="final_kevin_3_kryber">That animal no longer served my plans,</term>
+     	<term key="final_kevin_4_kryber">I'll deal with her later</term>
+	    <term key="final_kevin_5_kevin">She no longer has anything to do with you</term>
+		<term key="final_kevin_6_kevin">and I'll make sure you don`t hurt her</term>
+		<term key="final_kevin_7_kryber">Let`s see if your skills can back up your words!</term>
+		 
+		<term key="final_fight_kevin_win">Nobody messes with me or my friends!</term>
+	    <term key="final_fight_kevin_lose">The hunt is over!</term>
+		
+		
+		
+		<term key="final_fourarms_1_fourarms">I won't let you take Lord Gar's Golden Fist</term>
+	    <term key="final_fourarms_2_vilgax">Out of my way, you're no rival for me</term>
+     	<term key="final_fourarms_3_fourarms">I'll show you the strength of the Tetramands</term>
+	    <term key="final_fourarms_4_vilgax">Don't make me laugh</term>
+    
+		<term key="final_fight_fourarms_win">Feel the power Khoros' fists</term>
+	    <term key="final_fight_fourarms_lose">After dealing with Tennyson, I'll take care of Khoros</term>
+		
+		
+		
+			<!--  STORY END - FINAL  -->
+	        <!--  ===================  -->
+			
+	
+			<term key="story_end_diamondhead_1">After defeating Vilgax and getting the Golden Fist, Kruos made the Petrosapiens famous for being formidable warriors.</term>
+		    <term key="story_end_diamondhead_2">Thanks to this, Petropia became a meeting point for warriors across the galaxy.</term>
+			
+			<term key="story_end_heatblast_1">By winning the Golden Fist, Agni's fire burned brighter than ever before.</term>
+		    <term key="story_end_heatblast_2">With this new pride, he traveled the galaxy in search of new and stronger opponents.</term>
+									
+			<term key="story_end_looma_1">Looma not only proved to be the best warrior in Khoros but also in the entire galaxy.</term>
+		    <term key="story_end_looma_2">Her family and her people look up to their princess with pride and admiration.</term>
+		
+			<term key="story_end_feedback_1">Now that Warchit fulfilled his dream, he decided to open a fight school in his planet</term>
+		    <term key="story_end_feedback_2">in order to train the best warriors in the galaxy.</term>
+			
+			<term key="story_end_rook_1">The most important thing to Rook is to have shown that the plumbers fighting style</term>
+		    <term key="story_end_rook_2">is the most complete of the universe.</term>
+			
+			<term key="story_end_vilgax_1">Despite having beaten Ben, Vilgax was defeated by Gwen, and Kevin Rook before he could take the Omnitrix.</term>
+		    <term key="story_end_vilgax_2">In the midst of the battle, Vilgax escaped with the Golden Fist.</term>
+			
+			<term key="story_end_attea_1">Attea showed the universe the power of the Incursians</term>
+		    <term key="story_end_attea_2">and added the "Golden Fist" to her large collection of personal trophies.</term>
+			
+			<term key="story_end_malware_1">Malware was able to merge his body with the powerful "Golden Fist".</term>
+		    <term key="story_end_malware_2">Although he reached unimaginable power, he could not defeat all the heroes of the galaxy together.</term>
+			
+			<term key="story_end_kryber_1">Khyber didn't count on Kevin, Gwen and Rook joining forces to help Ben in the final battle.</term>
+		    <term key="story_end_kryber_2">Using his refined hunter instincts, he managed to generate a distraction and escape.</term>
+		
+			<term key="story_end_gwen_1">With the Golden Fist in her hands, Gwen proved that magic and intelligence</term>
+		    <term key="story_end_gwen_2">are the most powerful weapons in the universe.</term>
+			
+			<term key="story_end_kevin_1">Kevin handed the Golden Fist to Lord Gar in gratitude for having been so kind to him in the past.</term>
+		    <term key="story_end_kevin_2">Khoros will always remember his gesture with sympathy and happiness.</term>
+			
+			<term key="story_end_ben_1">Once again Ben saved the universe from the clutches of Vilgax and was crowned champion of the tournament.</term>
+		    <term key="story_end_ben_2">The people of Khoros cheered his name so Ben was happy to have been part of this great adventure.</term>
+		
+			<term key="story_end_fourarms_1">Gokstad proudly lifted the Golden Fist in front of the people of Khoros.</term>
+		    <term key="story_end_fourarms_2">Lord Gar pointed out that Gokstad's fights were some of the most admirable battles he had ever witnessed.</term>
+		
+		
+	
+	
+</texts>

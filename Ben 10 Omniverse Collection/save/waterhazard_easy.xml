@@ -1,0 +1,1160 @@
+<level>
+<infos>
+<version>0.1.0</version>
+</infos>
+<tc>
+<id/>
+<title/>
+</tc>
+<template>
+<character i="1" j="11"/>
+<goal i="18" j="11"/>
+</template>
+<game>
+<bg>
+<id>BG_landscape_0</id>
+</bg>
+<goal>
+<id>3</id>
+</goal>
+<character>
+<id>6</id>
+</character>
+<map>
+<cell id="instance522208" i="0" j="0">
+<class>W_jungle_0010</class>
+<depth>20000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance522228" i="0" j="1">
+<class>W_jungle_1010</class>
+<depth>20001</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance521824" i="0" j="2">
+<class>W_jungle_1110</class>
+<depth>20002</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance522149" i="0" j="3">
+<class>W_jungle_1110</class>
+<depth>20004</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance522365" i="0" j="4">
+<class>W_jungle_1000</class>
+<depth>20005</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance476158" i="0" j="6">
+<class>PF_0100</class>
+<depth>40000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance476538" i="0" j="9">
+<class>PF_0100</class>
+<depth>40000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance139703" i="0" j="12">
+<class>W_jungle_0110</class>
+<depth>20017</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance139723" i="0" j="13">
+<class>W_jungle_1100</class>
+<depth>20019</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance521844" i="1" j="2">
+<class>W_jungle_0111</class>
+<depth>20001</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance522301" i="1" j="3">
+<class>W_jungle_1001</class>
+<depth>20002</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance476040" i="1" j="6">
+<class>PF_0101</class>
+<depth>40000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance476514" i="1" j="9">
+<class>PF_0101</class>
+<depth>40000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance442978" i="1" j="11">
+<class>Ben10Waterhazard</class>
+<depth>110000</depth>
+<rect>
+<imin>-1</imin>
+<imax>1</imax>
+<jmin>-1</jmin>
+<jmax>1</jmax>
+</rect>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance140078" i="1" j="12">
+<class>W_jungle_0111</class>
+<depth>20016</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance140096" i="1" j="13">
+<class>W_jungle_1101</class>
+<depth>20017</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance520629" i="2" j="1">
+<class>Robot_Move</class>
+<depth>100000</depth>
+<rect>
+<imin>-1</imin>
+<imax>1</imax>
+<jmin>-1</jmin>
+<jmax>1</jmax>
+</rect>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance521896" i="2" j="2">
+<class>W_jungle_0101</class>
+<depth>20000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>3</variant>
+</data>
+</cell>
+<cell id="instance475926" i="2" j="6">
+<class>PF_0101</class>
+<depth>40000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance476484" i="2" j="9">
+<class>PF_0001</class>
+<depth>40000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance140348" i="2" j="12">
+<class>W_jungle_0111</class>
+<depth>20014</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance140366" i="2" j="13">
+<class>W_jungle_1101</class>
+<depth>20016</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance521960" i="3" j="2">
+<class>W_jungle_0101</class>
+<depth>19999</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance475899" i="3" j="6">
+<class>PF_0001</class>
+<depth>40000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance497702" i="3" j="11">
+<class>Object_box</class>
+<depth>90000</depth>
+<rect>
+<imin>-1</imin>
+<imax>1</imax>
+<jmin>-1</jmin>
+<jmax>1</jmax>
+</rect>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance140611" i="3" j="12">
+<class>W_jungle_0111</class>
+<depth>20013</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance140631" i="3" j="13">
+<class>W_jungle_1101</class>
+<depth>20015</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance522026" i="4" j="2">
+<class>W_jungle_0001</class>
+<depth>19998</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance475740" i="4" j="6">
+<class>W_jungle_0100</class>
+<depth>20002</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance497635" i="4" j="11">
+<class>Object_box</class>
+<depth>90000</depth>
+<rect>
+<imin>-1</imin>
+<imax>1</imax>
+<jmin>-1</jmin>
+<jmax>1</jmax>
+</rect>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance141023" i="4" j="12">
+<class>W_jungle_0111</class>
+<depth>20012</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance141043" i="4" j="13">
+<class>W_jungle_1101</class>
+<depth>20013</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance453713" i="5" j="12">
+<class>W_jungle_0111</class>
+<depth>20010</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance453733" i="5" j="13">
+<class>W_jungle_1101</class>
+<depth>20012</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance475689" i="5" j="6">
+<class>W_jungle_0101</class>
+<depth>20001</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance455478" i="6" j="5">
+<class>W_jungle_0110</class>
+<depth>19999</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance475244" i="6" j="6">
+<class>W_jungle_1101</class>
+<depth>20000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance455416" i="6" j="8">
+<class>W_jungle_0010</class>
+<depth>20003</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance455316" i="6" j="9">
+<class>W_jungle_1010</class>
+<depth>20004</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance455223" i="6" j="10">
+<class>W_jungle_1010</class>
+<depth>20006</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance455116" i="6" j="11">
+<class>W_jungle_1010</class>
+<depth>20007</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance453863" i="6" j="12">
+<class>W_jungle_1111</class>
+<depth>20009</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance453881" i="6" j="13">
+<class>W_jungle_1101</class>
+<depth>20010</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance456101" i="7" j="5">
+<class>W_jungle_0111</class>
+<depth>19998</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance455518" i="7" j="6">
+<class>W_jungle_1101</class>
+<depth>19999</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance453994" i="7" j="12">
+<class>W_jungle_0111</class>
+<depth>20007</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance454014" i="7" j="13">
+<class>W_jungle_1101</class>
+<depth>20009</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance539390" i="8" j="4">
+<class>Robot_Move</class>
+<depth>100000</depth>
+<rect>
+<imin>-1</imin>
+<imax>1</imax>
+<jmin>-1</jmin>
+<jmax>1</jmax>
+</rect>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance456171" i="8" j="5">
+<class>W_jungle_0111</class>
+<depth>19996</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance455565" i="8" j="6">
+<class>W_jungle_1101</class>
+<depth>19997</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance454769" i="8" j="12">
+<class>W_jungle_0111</class>
+<depth>20006</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance454787" i="8" j="13">
+<class>W_jungle_1101</class>
+<depth>20007</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance456333" i="9" j="5">
+<class>W_jungle_0011</class>
+<depth>19995</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance456257" i="9" j="6">
+<class>W_jungle_1111</class>
+<depth>19996</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance455628" i="9" j="7">
+<class>W_jungle_1100</class>
+<depth>19997</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance454617" i="9" j="12">
+<class>W_jungle_0111</class>
+<depth>20004</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance454637" i="9" j="13">
+<class>W_jungle_1101</class>
+<depth>20006</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance456431" i="10" j="6">
+<class>W_jungle_0011</class>
+<depth>19994</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance456501" i="10" j="7">
+<class>W_jungle_1111</class>
+<depth>19996</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance455679" i="10" j="8">
+<class>W_jungle_1100</class>
+<depth>19997</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance454599" i="10" j="12">
+<class>W_jungle_0111</class>
+<depth>20003</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance454655" i="10" j="13">
+<class>W_jungle_1101</class>
+<depth>20004</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance456572" i="11" j="7">
+<class>W_jungle_0011</class>
+<depth>19994</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>3</variant>
+</data>
+</cell>
+<cell id="instance455756" i="11" j="8">
+<class>W_jungle_1101</class>
+<depth>19996</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance456909" i="11" j="11">
+<class>Robot_Fix</class>
+<depth>100000</depth>
+<rect>
+<imin>-1</imin>
+<imax>1</imax>
+<jmin>-1</jmin>
+<jmax>1</jmax>
+</rect>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance454447" i="11" j="12">
+<class>W_jungle_0111</class>
+<depth>20001</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance454465" i="11" j="13">
+<class>W_jungle_1101</class>
+<depth>20003</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance456671" i="12" j="8">
+<class>W_jungle_0111</class>
+<depth>19994</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance455859" i="12" j="9">
+<class>W_jungle_1110</class>
+<depth>19996</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance455893" i="12" j="10">
+<class>W_jungle_1110</class>
+<depth>19997</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance455946" i="12" j="11">
+<class>W_jungle_1110</class>
+<depth>19999</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance454427" i="12" j="12">
+<class>W_jungle_1111</class>
+<depth>20000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>3</variant>
+</data>
+</cell>
+<cell id="instance454485" i="12" j="13">
+<class>W_jungle_1101</class>
+<depth>20001</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance521446" i="13" j="7">
+<class>Robot_Move</class>
+<depth>100000</depth>
+<rect>
+<imin>-1</imin>
+<imax>1</imax>
+<jmin>-1</jmin>
+<jmax>1</jmax>
+</rect>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance496054" i="13" j="8">
+<class>W_jungle_0011</class>
+<depth>19993</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance496112" i="13" j="9">
+<class>W_jungle_1111</class>
+<depth>19994</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance496221" i="13" j="10">
+<class>W_jungle_1111</class>
+<depth>19996</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance496241" i="13" j="11">
+<class>W_jungle_1111</class>
+<depth>19997</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>3</variant>
+</data>
+</cell>
+<cell id="instance454327" i="13" j="12">
+<class>W_jungle_1111</class>
+<depth>19999</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance454345" i="13" j="13">
+<class>W_jungle_1101</class>
+<depth>20000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance522469" i="14" j="0">
+<class>W_jungle_0100</class>
+<depth>19979</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance574397" i="14" j="5">
+<class>PF_0000</class>
+<depth>40000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance495714" i="14" j="9">
+<class>W_jungle_0011</class>
+<depth>19993</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance494888" i="14" j="10">
+<class>W_jungle_1011</class>
+<depth>19994</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance495028" i="14" j="11">
+<class>W_jungle_1011</class>
+<depth>19996</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance454235" i="14" j="12">
+<class>W_jungle_1111</class>
+<depth>19997</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance454253" i="14" j="13">
+<class>W_jungle_1101</class>
+<depth>19999</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance522507" i="15" j="0">
+<class>W_jungle_0101</class>
+<depth>19978</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>3</variant>
+</data>
+</cell>
+<cell id="instance497183" i="15" j="4">
+<class>W_jungle_0010</class>
+<depth>19984</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance497161" i="15" j="5">
+<class>W_jungle_1000</class>
+<depth>19985</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance493922" i="15" j="11">
+<class>Robot_Fix</class>
+<depth>100000</depth>
+<rect>
+<imin>-1</imin>
+<imax>1</imax>
+<jmin>-1</jmin>
+<jmax>1</jmax>
+</rect>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance144293" i="15" j="12">
+<class>W_jungle_0111</class>
+<depth>19996</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance144313" i="15" j="13">
+<class>W_jungle_1101</class>
+<depth>19997</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance522646" i="16" j="0">
+<class>W_jungle_0101</class>
+<depth>19976</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance496831" i="16" j="5">
+<class>PF_0100</class>
+<depth>40000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance520342" i="16" j="6">
+<class>W_jungle_0010</class>
+<depth>19985</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance520362" i="16" j="7">
+<class>W_jungle_1010</class>
+<depth>19987</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance520397" i="16" j="8">
+<class>W_jungle_1010</class>
+<depth>19988</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance495312" i="16" j="9">
+<class>W_jungle_1010</class>
+<depth>19990</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance495378" i="16" j="10">
+<class>W_jungle_1010</class>
+<depth>19991</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance495447" i="16" j="11">
+<class>W_jungle_1010</class>
+<depth>19993</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance144401" i="16" j="12">
+<class>W_jungle_1111</class>
+<depth>19994</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance144421" i="16" j="13">
+<class>W_jungle_1101</class>
+<depth>19996</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance522709" i="17" j="0">
+<class>W_jungle_0111</class>
+<depth>19975</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance522927" i="17" j="1">
+<class>W_jungle_1100</class>
+<depth>19976</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance521017" i="17" j="4">
+<class>Robot_Move</class>
+<depth>100000</depth>
+<rect>
+<imin>-1</imin>
+<imax>1</imax>
+<jmin>-1</jmin>
+<jmax>1</jmax>
+</rect>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance496855" i="17" j="5">
+<class>PF_0101</class>
+<depth>40000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance626193" i="17" j="9">
+<class>PF_0100</class>
+<depth>40000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>3</variant>
+</data>
+</cell>
+<cell id="instance144527" i="17" j="12">
+<class>W_jungle_0111</class>
+<depth>19993</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance144547" i="17" j="13">
+<class>W_jungle_1101</class>
+<depth>19994</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance522774" i="18" j="0">
+<class>W_jungle_0111</class>
+<depth>19973</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance522983" i="18" j="1">
+<class>W_jungle_1111</class>
+<depth>19975</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance523144" i="18" j="2">
+<class>W_jungle_1100</class>
+<depth>19976</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance496882" i="18" j="5">
+<class>PF_0101</class>
+<depth>40000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance626223" i="18" j="9">
+<class>PF_0101</class>
+<depth>40000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance450317" i="18" j="11">
+<class>Goal_Enemies</class>
+<depth>60000</depth>
+<rect>
+<imin>-2</imin>
+<imax>2</imax>
+<jmin>-4</jmin>
+<jmax>1</jmax>
+</rect>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance144963" i="18" j="12">
+<class>W_jungle_0111</class>
+<depth>19991</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance144983" i="18" j="13">
+<class>W_jungle_1101</class>
+<depth>19993</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance522792" i="19" j="0">
+<class>W_jungle_0011</class>
+<depth>19972</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>3</variant>
+</data>
+</cell>
+<cell id="instance523056" i="19" j="1">
+<class>W_jungle_1011</class>
+<depth>19973</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance523197" i="19" j="2">
+<class>W_jungle_1001</class>
+<depth>19975</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance496996" i="19" j="5">
+<class>PF_0001</class>
+<depth>40000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance626319" i="19" j="9">
+<class>PF_0001</class>
+<depth>40000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance144814" i="19" j="12">
+<class>W_jungle_0011</class>
+<depth>19990</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>2</variant>
+</data>
+</cell>
+<cell id="instance144832" i="19" j="13">
+<class>W_jungle_1001</class>
+<depth>19991</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+</map>
+</game>
+</level>

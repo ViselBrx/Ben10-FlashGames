@@ -1,0 +1,16 @@
+﻿<system>
+	<version type="String">1.0.3</version>
+	<versionSo type="String">1.0.3</versionSo>
+    <language type="String">en</language>
+    <languages type="Array">ar,bg,de,dk,en,es,fr,hu,it,nl,no,pl,ro,ru,se,us</languages>
+    <langPath type="String">lang/</langPath>
+    <mainPath type="String"></mainPath>
+	<fps type="Boolean">false</fps>
+	<mute type="Boolean">false</mute>
+	<cheat type="Boolean">false</cheat>
+	<debug type="Boolean">false</debug>
+	<achievement type="Boolean">false</achievement>
+	
+	<textFlowMode type="Boolean">true</textFlowMode>
+	<fontPath>lang/</fontPath>
+</system>

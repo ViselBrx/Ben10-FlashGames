@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<xliff version="1.0" xml:lang="us">
+
+ <file datatype="plaintext" original="localization_global.fla" source-language="US">
+    <header></header>
+    <body>
+      <trans-unit id="022" resname="IDS_BIGCHILL">
+        <source>Ultimate Big Chill</source>
+      </trans-unit>
+      <trans-unit id="014" resname="IDS_BRAINSTORM">
+        <source>brainstorm</source>
+      </trans-unit>
+      <trans-unit id="018" resname="IDS_CANNONBOLT">
+        <source>Ultimate Cannonbolt</source>
+      </trans-unit>
+      <trans-unit id="002" resname="IDS_CHOICE_ALIEN">
+        <source>Select alien - Select alien - Select alien - Select alien - Select </source>
+      </trans-unit>
+      <trans-unit id="030" resname="IDS_CONGRATULATIONS">
+        <source>Congratulations! You’ve unlocked:</source>
+      </trans-unit>
+      <trans-unit id="004" resname="IDS_EASY">
+        <source>easy</source>
+      </trans-unit>
+      <trans-unit id="017" resname="IDS_ECHOECHO">
+        <source>Ultimate Echo Echo</source>
+      </trans-unit>
+      <trans-unit id="012" resname="IDS_GAME_OVER">
+        <source>try again</source>
+      </trans-unit>
+      <trans-unit id="011" resname="IDS_GOTO_ALIEN">
+        <source>next alien</source>
+      </trans-unit>
+      <trans-unit id="005" resname="IDS_HARD">
+        <source>hard</source>
+      </trans-unit>
+      <trans-unit id="010" resname="IDS_HARD_MODE">
+        <source>harder mode</source>
+      </trans-unit>
+      <trans-unit id="021" resname="IDS_HUMONGOUSAUR">
+        <source>humungousaur</source>
+      </trans-unit>
+      <trans-unit id="016" resname="IDS_JETRAY">
+        <source>jetray</source>
+      </trans-unit>
+      <trans-unit id="009" resname="IDS_MAP">
+        <source>return to map</source>
+      </trans-unit>
+      <trans-unit id="031" resname="IDS_NEXT">
+        <source>easy</source>
+      </trans-unit>
+      <trans-unit id="001" resname="IDS_PLAY">
+        <source>play</source>
+      </trans-unit>
+      <trans-unit id="032" resname="IDS_PUB">
+        <source>NEW ALIENS HAVE LANDED IN GAME CREATOR</source>
+      </trans-unit>
+      <trans-unit id="013" resname="IDS_RETRY">
+        <source>retry</source>
+      </trans-unit>
+      <trans-unit id="006" resname="IDS_RETURN">
+        <source>return</source>
+      </trans-unit>
+      <trans-unit id="003" resname="IDS_SELECT_LEVEL">
+        <source>select level</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_SITEWEB">
+        <source>http://gamecreator.cartoonnetwork.com/</source>
+      </trans-unit>
+      <trans-unit id="015" resname="IDS_SPIDERMONKEY">
+        <source>spidermonkey</source>
+      </trans-unit>
+      <trans-unit id="020" resname="IDS_SWAMPFIRE">
+        <source>swampfire</source>
+      </trans-unit>
+      <trans-unit id="019" resname="IDS_TERRASPIN">
+        <source>terraspin</source>
+      </trans-unit>
+      <trans-unit id="008" resname="IDS_TIME">
+        <source>your time</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_UNAVAILABLE_BIGCHILL">
+        <source>Release Date: 10/10/2010</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_UNAVAILABLE_BRAINSTORM">
+        <source>Release Date: 10/10/2010</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_UNAVAILABLE_CANNONBOLT">
+        <source>Release Date: 10/10/2010</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_UNAVAILABLE_ECHOECHO">
+        <source>Release Date: 10/10/2010</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_UNAVAILABLE_HUMONGOUSAUR">
+        <source>Release Date: 10/10/2010</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_UNAVAILABLE_JETRAY">
+        <source>Release Date: 10/10/2010</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_UNAVAILABLE_SPIDERMONKEY">
+        <source>Release Date: 10/10/2010</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_UNAVAILABLE_SWAMPFIRE">
+        <source>Release Date: 10/10/2010</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_UNAVAILABLE_TERRASPIN">
+        <source>Release Date: 10/10/2010</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_UNAVAILABLE_WATERHAZARD">
+        <source>Release Date: 10/10/2010</source>
+      </trans-unit>
+      <trans-unit id="023" resname="IDS_WATERHAZARD">
+        <source>waterhazard</source>
+      </trans-unit>
+      <trans-unit id="007" resname="IDS_WIN">
+        <source>you win!</source>
+      </trans-unit>
+      <trans-unit id="024" resname="IDS_WINEASY">
+        <source>Congratulations!\nTry a different game or build your own in game creator</source>
+      </trans-unit>
+      <trans-unit id="027" resname="IDS_WINHARD">
+        <source>Congratulations!\nYou've beaten the hard mode!!!\n\nNow go build your own Ben 10 games and share them with your friends</source>
+      </trans-unit>
+      <trans-unit id="033" resname="IDS_BUILD">
+        <source>build</source>
+      </trans-unit>
+      <trans-unit id="034" resname="IDS_AVAILABLE_TO_CN">
+        <source>available on www.cartoonnetwork.com</source>
+      </trans-unit>
+    </body>
+  </file>
+
+</xliff>

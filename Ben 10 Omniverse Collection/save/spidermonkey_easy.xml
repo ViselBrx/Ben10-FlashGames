@@ -1,0 +1,1010 @@
+<level>
+<infos>
+<version>0.1.0</version>
+</infos>
+<tc>
+<id/>
+<title/>
+</tc>
+<template>
+<character i="0" j="11"/>
+<goal i="15" j="11"/>
+</template>
+<game>
+<bg>
+<id>BG_castle_0</id>
+</bg>
+<goal>
+<id>2</id>
+</goal>
+<character>
+<id>4</id>
+</character>
+<map>
+<cell id="instance209989" i="0" j="0">
+<class>W_ville_0110</class>
+<depth>20000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance210003" i="0" j="1">
+<class>W_ville_1110</class>
+<depth>20001</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance210033" i="0" j="2">
+<class>W_ville_1010</class>
+<depth>20002</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance209916" i="0" j="3">
+<class>W_ville_1010</class>
+<depth>20004</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance213136" i="0" j="4">
+<class>W_ville_1100</class>
+<depth>20005</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance208362" i="0" j="7">
+<class>W_ville_0100</class>
+<depth>20010</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance198494" i="0" j="11">
+<class>Ben10Spidermonkey</class>
+<depth>110000</depth>
+<rect>
+<imin>-1</imin>
+<imax>1</imax>
+<jmin>-1</jmin>
+<jmax>1</jmax>
+</rect>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance48884" i="0" j="12">
+<class>W_ville_0110</class>
+<depth>20017</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance133885" i="0" j="13">
+<class>W_ville_1100</class>
+<depth>20019</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance210096" i="1" j="0">
+<class>W_ville_0111</class>
+<depth>19999</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance213529" i="1" j="1">
+<class>W_ville_1001</class>
+<depth>20000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance213669" i="1" j="3">
+<class>Robot_Move</class>
+<depth>100000</depth>
+<rect>
+<imin>-1</imin>
+<imax>1</imax>
+<jmin>-1</jmin>
+<jmax>1</jmax>
+</rect>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance213095" i="1" j="4">
+<class>W_ville_0101</class>
+<depth>20004</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance208328" i="1" j="7">
+<class>W_ville_0101</class>
+<depth>20008</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance49486" i="1" j="12">
+<class>W_ville_0111</class>
+<depth>20016</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance49497" i="1" j="13">
+<class>W_ville_1101</class>
+<depth>20017</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance210135" i="2" j="0">
+<class>W_ville_0101</class>
+<depth>19998</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance213057" i="2" j="4">
+<class>W_ville_0101</class>
+<depth>20002</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance208281" i="2" j="7">
+<class>W_ville_0011</class>
+<depth>20007</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance208263" i="2" j="8">
+<class>W_ville_1000</class>
+<depth>20008</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance208072" i="2" j="12">
+<class>W_ville_0111</class>
+<depth>20014</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance208083" i="2" j="13">
+<class>W_ville_1101</class>
+<depth>20016</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance210171" i="3" j="0">
+<class>W_ville_0011</class>
+<depth>19996</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance210219" i="3" j="1">
+<class>W_ville_1010</class>
+<depth>19998</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance213483" i="3" j="2">
+<class>W_ville_1000</class>
+<depth>19999</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance213025" i="3" j="4">
+<class>W_ville_0001</class>
+<depth>20001</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance211264" i="3" j="7">
+<class>Item_phantom</class>
+<depth>80000</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance211299" i="3" j="8">
+<class>Item_phantom</class>
+<depth>80000</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance208152" i="3" j="12">
+<class>W_ville_0011</class>
+<depth>20013</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance208163" i="3" j="13">
+<class>W_ville_1001</class>
+<depth>20015</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance211622" i="4" j="4">
+<class>Item_phantom</class>
+<depth>80000</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance211408" i="5" j="10">
+<class>Item_phantom</class>
+<depth>80000</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance211443" i="5" j="11">
+<class>Item_phantom</class>
+<depth>80000</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance208660" i="6" j="8">
+<class>W_ville_0110</class>
+<depth>20003</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance208619" i="6" j="9">
+<class>W_ville_1110</class>
+<depth>20004</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance208574" i="6" j="10">
+<class>W_ville_1110</class>
+<depth>20006</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance208528" i="6" j="11">
+<class>W_ville_1110</class>
+<depth>20007</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance208471" i="6" j="12">
+<class>W_ville_1110</class>
+<depth>20009</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance208482" i="6" j="13">
+<class>W_ville_1100</class>
+<depth>20010</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance208755" i="7" j="5">
+<class>W_ville_0010</class>
+<depth>19998</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance208766" i="7" j="6">
+<class>W_ville_1010</class>
+<depth>19999</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance208796" i="7" j="7">
+<class>W_ville_1010</class>
+<depth>20000</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance208829" i="7" j="8">
+<class>W_ville_1011</class>
+<depth>20001</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance208871" i="7" j="9">
+<class>W_ville_1111</class>
+<depth>20003</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance208912" i="7" j="10">
+<class>W_ville_1111</class>
+<depth>20004</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance208953" i="7" j="11">
+<class>W_ville_1111</class>
+<depth>20006</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance208999" i="7" j="12">
+<class>W_ville_1111</class>
+<depth>20007</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance209010" i="7" j="13">
+<class>W_ville_1101</class>
+<depth>20009</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance211701" i="8" j="6">
+<class>Item_phantom</class>
+<depth>80000</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance209138" i="8" j="9">
+<class>W_ville_0011</class>
+<depth>20001</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance209179" i="8" j="10">
+<class>W_ville_1111</class>
+<depth>20003</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance209224" i="8" j="11">
+<class>W_ville_1111</class>
+<depth>20004</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance209267" i="8" j="12">
+<class>W_ville_1111</class>
+<depth>20006</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance209278" i="8" j="13">
+<class>W_ville_1101</class>
+<depth>20007</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance210460" i="9" j="0">
+<class>W_ville_0010</class>
+<depth>19987</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance210428" i="9" j="1">
+<class>W_ville_1010</class>
+<depth>19989</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance210416" i="9" j="2">
+<class>W_ville_1000</class>
+<depth>19990</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance209388" i="9" j="10">
+<class>W_ville_0011</class>
+<depth>20001</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance209427" i="9" j="11">
+<class>W_ville_1111</class>
+<depth>20003</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance209468" i="9" j="12">
+<class>W_ville_1111</class>
+<depth>20004</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance209479" i="9" j="13">
+<class>W_ville_1101</class>
+<depth>20006</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance209573" i="10" j="11">
+<class>W_ville_0011</class>
+<depth>20001</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance209610" i="10" j="12">
+<class>W_ville_1011</class>
+<depth>20003</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance209621" i="10" j="13">
+<class>W_ville_1001</class>
+<depth>20004</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance211785" i="11" j="5">
+<class>Item_phantom</class>
+<depth>80000</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance211839" i="12" j="3">
+<class>Item_phantom</class>
+<depth>80000</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance210874" i="12" j="4">
+<class>W_ville_0110</class>
+<depth>19988</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance211057" i="12" j="5">
+<class>W_ville_1110</class>
+<depth>19990</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance211022" i="12" j="6">
+<class>W_ville_1100</class>
+<depth>19991</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance211873" i="13" j="3">
+<class>Item_phantom</class>
+<depth>80000</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance210887" i="13" j="4">
+<class>W_ville_0011</class>
+<depth>19987</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance210945" i="13" j="5">
+<class>W_ville_1011</class>
+<depth>19988</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance210980" i="13" j="6">
+<class>W_ville_1011</class>
+<depth>19990</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance211133" i="13" j="7">
+<class>W_ville_1000</class>
+<depth>19991</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance211935" i="14" j="5">
+<class>Item_phantom</class>
+<depth>80000</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance211973" i="14" j="6">
+<class>Item_phantom</class>
+<depth>80000</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance212057" i="16" j="8">
+<class>Item_phantom</class>
+<depth>80000</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance212095" i="16" j="9">
+<class>Item_phantom</class>
+<depth>80000</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance212142" i="16" j="10">
+<class>Item_phantom</class>
+<depth>80000</depth>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance205413" i="17" j="3">
+<class>W_ville_0110</class>
+<depth>19979</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance205453" i="17" j="4">
+<class>W_ville_1110</class>
+<depth>19981</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance205464" i="17" j="5">
+<class>W_ville_1110</class>
+<depth>19982</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance205516" i="17" j="6">
+<class>W_ville_1110</class>
+<depth>19984</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance205558" i="17" j="7">
+<class>W_ville_1110</class>
+<depth>19985</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance205569" i="17" j="8">
+<class>W_ville_1110</class>
+<depth>19987</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance73244" i="17" j="9">
+<class>W_ville_1110</class>
+<depth>19988</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance205623" i="17" j="10">
+<class>W_ville_1110</class>
+<depth>19990</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance205634" i="17" j="11">
+<class>W_ville_1110</class>
+<depth>19991</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance205676" i="17" j="12">
+<class>W_ville_1110</class>
+<depth>19993</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance205687" i="17" j="13">
+<class>W_ville_1100</class>
+<depth>19994</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance206342" i="19" j="3">
+<class>W_ville_0011</class>
+<depth>19976</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance206388" i="19" j="4">
+<class>W_ville_1011</class>
+<depth>19978</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance206431" i="19" j="5">
+<class>W_ville_1011</class>
+<depth>19979</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance206442" i="19" j="6">
+<class>W_ville_1011</class>
+<depth>19981</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance206509" i="19" j="7">
+<class>W_ville_1011</class>
+<depth>19982</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance206520" i="19" j="8">
+<class>W_ville_1011</class>
+<depth>19984</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance73311" i="19" j="9">
+<class>W_ville_1011</class>
+<depth>19985</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance206595" i="19" j="10">
+<class>W_ville_1011</class>
+<depth>19987</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance206606" i="19" j="11">
+<class>W_ville_1011</class>
+<depth>19988</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance206670" i="19" j="12">
+<class>W_ville_1011</class>
+<depth>19990</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance206681" i="19" j="13">
+<class>W_ville_1001</class>
+<depth>19991</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance201975" i="18" j="2">
+<class>Goal_Items</class>
+<depth>60000</depth>
+<rect>
+<imin>-2</imin>
+<imax>2</imax>
+<jmin>-4</jmin>
+<jmax>1</jmax>
+</rect>
+<dx>15</dx>
+<dy>15</dy>
+</cell>
+<cell id="instance205860" i="18" j="3">
+<class>W_ville_0111</class>
+<depth>19978</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance205909" i="18" j="4">
+<class>W_ville_1111</class>
+<depth>19979</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance205950" i="18" j="5">
+<class>W_ville_1111</class>
+<depth>19981</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance205993" i="18" j="6">
+<class>W_ville_1111</class>
+<depth>19982</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance206004" i="18" j="7">
+<class>W_ville_1111</class>
+<depth>19984</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance206015" i="18" j="8">
+<class>W_ville_1111</class>
+<depth>19985</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance73270" i="18" j="9">
+<class>W_ville_1111</class>
+<depth>19987</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance206117" i="18" j="10">
+<class>W_ville_1111</class>
+<depth>19988</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance206162" i="18" j="11">
+<class>W_ville_1111</class>
+<depth>19990</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>0</variant>
+</data>
+</cell>
+<cell id="instance206173" i="18" j="12">
+<class>W_ville_1111</class>
+<depth>19991</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+<cell id="instance206184" i="18" j="13">
+<class>W_ville_1101</class>
+<depth>19993</depth>
+<dx>15</dx>
+<dy>15</dy>
+<data>
+<variant>1</variant>
+</data>
+</cell>
+</map>
+</game>
+</level>

@@ -1,0 +1,581 @@
+<level>
+  <infos>
+    <version>0.1.0</version>
+  </infos>
+  <tc>
+    <id>TC3</id>
+    <title>
+      <part>
+        <id>050</id>
+        <value>Mission</value>
+      </part>
+      <part>
+        <id>002</id>
+        <value>Alien</value>
+      </part>
+      <part>
+        <id>046</id>
+        <value>Lightning</value>
+      </part>
+    </title>
+  </tc>
+  <game>
+    <bg>
+      <id>BG_spaceship_2</id>
+    </bg>
+    <goal>
+      <id>4</id>
+    </goal>
+    <character>
+      <id>10</id>
+    </character>
+    <map>
+      <cell id="instance535095" i="0" j="12">
+        <class>W_volt_0110</class>
+        <depth>29994</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance553645" i="0" j="13">
+        <class>W_volt_1100</class>
+        <depth>30019</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1495996" i="0" j="6">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance620256" i="1" j="2">
+        <class>Enemy_Generator</class>
+        <depth>70000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance717135" i="1" j="3">
+        <class>WallPhantom0</class>
+        <depth>44987</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1495959" i="1" j="6">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance2637139" i="1" j="9">
+        <class>Ben10Bigchill</class>
+        <depth>110000</depth>
+        <rect>
+          <imin>-1</imin>
+          <imax>1</imax>
+          <jmin>-1</jmin>
+          <jmax>1</jmax>
+        </rect>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance534932" i="1" j="12">
+        <class>W_volt_0111</class>
+        <depth>29993</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance553658" i="1" j="13">
+        <class>W_volt_1101</class>
+        <depth>30017</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance534810" i="2" j="12">
+        <class>W_volt_0111</class>
+        <depth>29991</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance553671" i="2" j="13">
+        <class>W_volt_1101</class>
+        <depth>30016</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1494571" i="3" j="1">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1495077" i="3" j="9">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance534736" i="3" j="12">
+        <class>W_volt_0111</class>
+        <depth>30013</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance553684" i="3" j="13">
+        <class>W_volt_1101</class>
+        <depth>30015</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1494598" i="4" j="1">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1494923" i="4" j="2">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance740312" i="4" j="5">
+        <class>Enemy_Generator</class>
+        <depth>70000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance739836" i="4" j="6">
+        <class>WallPhantom0</class>
+        <depth>44981</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1495002" i="4" j="8">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1495104" i="4" j="9">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance570749" i="4" j="12">
+        <class>W_volt_0111</class>
+        <depth>30012</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance570762" i="4" j="13">
+        <class>W_volt_1101</class>
+        <depth>30013</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1494626" i="5" j="1">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1495138" i="5" j="9">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance570833" i="5" j="12">
+        <class>W_volt_0111</class>
+        <depth>30010</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance570846" i="5" j="13">
+        <class>W_volt_1101</class>
+        <depth>30012</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance570912" i="6" j="12">
+        <class>W_volt_0111</class>
+        <depth>30009</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance570925" i="6" j="13">
+        <class>W_volt_1101</class>
+        <depth>30010</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1493050" i="6" j="6">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1053013" i="7" j="2">
+        <class>Enemy_Generator</class>
+        <depth>70000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1052649" i="7" j="3">
+        <class>WallPhantom0</class>
+        <depth>44981</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1493149" i="7" j="6">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance570991" i="7" j="12">
+        <class>W_volt_0111</class>
+        <depth>30007</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571004" i="7" j="13">
+        <class>W_volt_1101</class>
+        <depth>30009</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1417733" i="8" j="3">
+        <class>WallPhantom0</class>
+        <depth>44990</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1532573" i="8" j="4">
+        <class>W_volt_0000</class>
+        <depth>29995</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1495551" i="8" j="10">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571069" i="8" j="12">
+        <class>W_volt_0111</class>
+        <depth>30006</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571082" i="8" j="13">
+        <class>W_volt_1101</class>
+        <depth>30007</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance2642618" i="9" j="2">
+        <class>Goal_EnemiesItems</class>
+        <depth>60000</depth>
+        <rect>
+          <imin>-2</imin>
+          <imax>2</imax>
+          <jmin>-4</jmin>
+          <jmax>2</jmax>
+        </rect>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1417846" i="9" j="3">
+        <class>WallPhantom0</class>
+        <depth>44990</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1240560" i="9" j="5">
+        <class>Robot_Move</class>
+        <depth>100000</depth>
+        <rect>
+          <imin>-1</imin>
+          <imax>1</imax>
+          <jmin>-1</jmin>
+          <jmax>1</jmax>
+        </rect>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1240350" i="9" j="6">
+        <class>WallPhantom0</class>
+        <depth>44981</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1495581" i="9" j="10">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571172" i="9" j="12">
+        <class>W_volt_0111</class>
+        <depth>30004</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571185" i="9" j="13">
+        <class>W_volt_1101</class>
+        <depth>30006</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1417958" i="10" j="3">
+        <class>WallPhantom0</class>
+        <depth>44990</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1532631" i="10" j="4">
+        <class>W_volt_0000</class>
+        <depth>29992</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1495608" i="10" j="10">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571257" i="10" j="12">
+        <class>W_volt_0111</class>
+        <depth>30003</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571270" i="10" j="13">
+        <class>W_volt_1101</class>
+        <depth>30004</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance620673" i="11" j="2">
+        <class>Enemy_Generator</class>
+        <depth>70000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance595770" i="11" j="3">
+        <class>WallPhantom0</class>
+        <depth>44978</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1493456" i="11" j="6">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571337" i="11" j="12">
+        <class>W_volt_0111</class>
+        <depth>30001</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571350" i="11" j="13">
+        <class>W_volt_1101</class>
+        <depth>30003</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571416" i="12" j="12">
+        <class>W_volt_0111</class>
+        <depth>30000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571429" i="12" j="13">
+        <class>W_volt_1101</class>
+        <depth>30001</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1493490" i="12" j="6">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1494355" i="13" j="1">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1495464" i="13" j="9">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571494" i="13" j="12">
+        <class>W_volt_0111</class>
+        <depth>29999</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571507" i="13" j="13">
+        <class>W_volt_1101</class>
+        <depth>30000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1494404" i="14" j="1">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1494813" i="14" j="2">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1240177" i="14" j="5">
+        <class>Enemy_Generator</class>
+        <depth>70000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1239782" i="14" j="6">
+        <class>WallPhantom0</class>
+        <depth>44981</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1495268" i="14" j="8">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1495360" i="14" j="9">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571592" i="14" j="12">
+        <class>W_volt_0111</class>
+        <depth>29997</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571605" i="14" j="13">
+        <class>W_volt_1101</class>
+        <depth>29999</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1494455" i="15" j="1">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1495390" i="15" j="9">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571676" i="15" j="12">
+        <class>W_volt_0111</class>
+        <depth>29996</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571689" i="15" j="13">
+        <class>W_volt_1101</class>
+        <depth>29997</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571762" i="16" j="12">
+        <class>W_volt_0111</class>
+        <depth>29994</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571775" i="16" j="13">
+        <class>W_volt_1101</class>
+        <depth>29996</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance740729" i="17" j="2">
+        <class>Enemy_Generator</class>
+        <depth>70000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance739224" i="17" j="3">
+        <class>WallPhantom0</class>
+        <depth>44981</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571860" i="17" j="12">
+        <class>W_volt_0111</class>
+        <depth>29993</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571873" i="17" j="13">
+        <class>W_volt_1101</class>
+        <depth>29994</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1495829" i="17" j="6">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571953" i="18" j="12">
+        <class>W_volt_0111</class>
+        <depth>29991</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance571966" i="18" j="13">
+        <class>W_volt_1101</class>
+        <depth>29993</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance1495857" i="18" j="6">
+        <class>Item_jungle</class>
+        <depth>80000</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance572097" i="19" j="12">
+        <class>W_volt_0011</class>
+        <depth>29990</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+      <cell id="instance572110" i="19" j="13">
+        <class>W_volt_1001</class>
+        <depth>29991</depth>
+        <dx>15</dx>
+        <dy>15</dy>
+      </cell>
+    </map>
+  </game>
+</level>
